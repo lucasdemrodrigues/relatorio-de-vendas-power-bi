@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 ## 📑 Índice
 
 - [Contexto \& Desafio](#-contexto--desafio)
