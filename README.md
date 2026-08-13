@@ -24,6 +24,7 @@
 - [Principais insights](#-principais-insights)
 - [Decisões de design e visualização de dados](#-decisões-de-design-e-visualização-de-dados)
 - [Sobre os dados](#️-sobre-os-dados)
+- [Regras de negócio e indicadores](#️-regras-de-negócio-e-indicadores)
 - [Preparação dos dados](#️-preparação-dos-dados)
 - [Modelagem \& Engenharia de Dados](#️-modelagem--engenharia-de-dados)
 - [Paleta de Cores \& Identidade Visual](#-paleta-de-cores--identidade-visual)
@@ -159,7 +160,7 @@ O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos ca
 
 ---
 
-## 🧠 Regras de Negócio & Indicadores
+## 🧠 Regras de negócio e indicadores
 
 Para orientar a leitura do relatório e garantir o rigor conceitual da análise, foram consideradas as seguintes definições e relações presentes na base de dados:
 
@@ -169,7 +170,7 @@ Para orientar a leitura do relatório e garantir o rigor conceitual da análise,
 * **Custo das Mercadorias Vendidas (`COGS`):** Custos diretos associados à produção e distribuição dos produtos.
 * **Lucro (`Profit`):** Resultado financeiro final obtido pela operação.
 
-### Relações de Cálculo
+### Relações de cálculo
 
 $$ \text{Receita Bruta} - \text{Descontos} = \text{Receita após Descontos} $$
 
