@@ -169,9 +169,7 @@ Para orientar a leitura do relatório e garantir o rigor conceitual da análise,
 * **Custo das Mercadorias Vendidas (`COGS`):** Custos diretos associados à produção e distribuição dos produtos.
 * **Lucro (`Profit`):** Resultado financeiro final obtido pela operação.
 
----
-
-### 📐 Relações de Cálculo
+### Relações de Cálculo
 
 $$ \text{Receita Bruta} - \text{Descontos} = \text{Receita após Descontos} $$
 
