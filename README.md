@@ -52,13 +52,11 @@ A proposta consistia em construir e publicar um relatório de vendas no Power BI
 > **Foco:** Receita, preços médios e evolução mensal por segmento.
 <img width="876" height="489" alt="{0475591D-BD28-48FC-A5E2-A455767399E3}" src="https://github.com/user-attachments/assets/9a7a847d-6e0c-4510-a38a-18eeb83031dd" />
 
-<img width="1744" height="974" alt="pagina-1-visao-geral-de-produtos" src="https://github.com/user-attachments/assets/788d609f-85a4-45c4-ae5e-8af1766796d5" />
-
 ---
 
 ### 📄 Página 2 — Desempenho Geográfico
 > **Foco:** Comparativo regional entre Receita vs. Lucro, unidades vendidas e tendência temporal.
-<img width="1744" height="974" alt="pagina-2-desempenho-geografico" src="https://github.com/user-attachments/assets/3c93bdda-eeb2-49c3-9de8-8dac833cd630" />
+<img width="871" height="488" alt="{668BB0D0-5D47-418A-9312-211EF5EFD988}" src="https://github.com/user-attachments/assets/cadd6163-deed-4b8f-b1ce-10b195971ca3" />
 
 ---
 
