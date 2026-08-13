@@ -50,7 +50,8 @@ A proposta consistia em construir e publicar um relatório de vendas no Power BI
 
 ### 📄 Página 1 — Visão Geral de Produtos
 > **Foco:** Receita, preços médios e evolução mensal por segmento.
-![Página 1 — Visão Geral de Produtos](images/pagina-1-visao-geral-de-produtos.png)
+<img width="1744" height="974" alt="pagina-1-visao-geral-de-produtos" src="https://github.com/user-attachments/assets/788d609f-85a4-45c4-ae5e-8af1766796d5" />
+
 
 ---
 
