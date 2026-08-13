@@ -159,6 +159,28 @@ O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos ca
 
 ---
 
+## 🧠 Regras de Negócio & Indicadores
+
+Para orientar a leitura do relatório e garantir o rigor conceitual da análise, foram consideradas as seguintes definições e relações presentes na base de dados:
+
+* **Receita Bruta (`Gross Sales`):** Valor total das vendas antes da aplicação de qualquer desconto.
+* **Descontos (`Discounts`):** Montante total concedido em abatimentos comerciais.
+* **Receita após Descontos (`Sales`):** Valor efetivamente capturado após a dedução dos descontos.
+* **Custo das Mercadorias Vendidas (`COGS`):** Custos diretos associados à produção e distribuição dos produtos.
+* **Lucro (`Profit`):** Resultado financeiro final obtido pela operação.
+
+---
+
+### 📐 Relações de Cálculo
+
+$$ \text{Receita Bruta} - \text{Descontos} = \text{Receita após Descontos} $$
+
+$$ \text{Receita após Descontos} - \text{COGS} = \text{Lucro} $$
+
+> 💡 *Nota: a base Financial Sample utiliza o campo Sales para representar a receita após descontos, sem considerar outras deduções, como impostos ou devoluções.*
+
+---
+
 ## ⚙️ Preparação dos dados
 
 Os dados foram carregados e analisados no Power Query antes da criação dos visuais.
