@@ -37,16 +37,9 @@ Este projeto foi desenvolvido como parte do Bootcamp Santander em parceria com a
 
 A proposta consistia em construir e publicar um relatório de vendas no Power BI que permitisse investigar a relação entre vendas e lucratividade sob diferentes perspectivas, como produtos, segmentos, países e períodos.
 
-### 🎯 Perguntas de Negócio que o Dashboard Responde:
-- **Performance Comercial:** Quais produtos lideram a receita e como o preço médio se comporta por categoria?
-- **Desempenho Geográfico:** Quais países entregam o maior volume, receita e lucro líquido? *(Maior receita significa necessariamente maior lucro?)*
-- **Eficiência Financeira:** Quanto da receita é efetivamente retido? Onde se concentram os custos, os descontos e as margens negativas?
-
 ---
 
-## 📊 Demonstração Visual (Galeria)
-
-> *As capturas abaixo encontram-se armazenadas na pasta `images/` do repositório.*
+## 📊 Demonstração visual
 
 ### 📄 Página 1 — Visão Geral de Produtos
 > **Foco:** Receita, preços médios e evolução mensal por segmento.
