@@ -12,7 +12,7 @@
 ![DAX](https://img.shields.io/badge/DAX-00758F?logo=sqlite&logoColor=white)
 
 <p align="center">
-  Relatório interativo desenvolvido no Power BI para analisar o desempenho comercial e financeiro da base <i>Financials Sample</i>, conectando receita, lucro, custos, descontos e evolução temporal em uma experiência orientada a dados.
+  Relatório interativo em Power BI que investiga a relação entre vendas e lucratividade, identificando os produtos, segmentos e países que mais contribuem para os resultados.
 </p>
 
 </div>
