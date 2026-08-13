@@ -110,11 +110,55 @@ O projeto priorizou boas práticas de visualização de dados em relação ao re
 | **Dicas de ferramenta personalizadas** | Os gráficos *Participação da receita por produto* e *Preço médio de venda por produto* apresentam informações complementares ao posicionar o cursor sobre cada produto, mantendo a página principal limpa e objetiva. |
 | **Organização do cabeçalho e navegação** | O título, o segmentador de período e os botões de navegação foram reunidos no cabeçalho, mantendo os controles consistentes entre as páginas e liberando espaço para os visuais. |
 
-### Paleta de cores e identidade visual
+### Identidade visual
 
-A identidade visual combina fundo em tom lilás-claro, cartões brancos e uma paleta de cores consistente entre os gráficos. As mesmas cores foram mantidas para representar produtos, segmentos e países ao longo do relatório, facilitando o reconhecimento das categorias.
+O fundo em lilás-claro (`#F7F5FA`) foi utilizado para criar uma separação suave em relação aos cartões brancos (`#FFFFFF`), favorecendo a hierarquia visual sem recorrer a contrastes excessivos. As mesmas cores foram mantidas para representar produtos, segmentos e países ao longo do relatório, facilitando o reconhecimento das categorias.
 
 **Produtos**
+
+#### Produtos
+
+<table>
+  <thead>
+    <tr>
+      <th>Produto</th>
+      <th>Amostra</th>
+      <th>Hexadecimal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Paseo</td>
+      <td bgcolor="#5B2A86">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><code>#5B2A86</code></td>
+    </tr>
+    <tr>
+      <td>VTT</td>
+      <td bgcolor="#7656B8">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><code>#7656B8</code></td>
+    </tr>
+    <tr>
+      <td>Velo</td>
+      <td bgcolor="#C44E9B">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><code>#C44E9B</code></td>
+    </tr>
+    <tr>
+      <td>Amarilla</td>
+      <td bgcolor="#2884C6">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><code>#2884C6</code></td>
+    </tr>
+    <tr>
+      <td>Montana</td>
+      <td bgcolor="#36A6A6">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><code>#36A6A6</code></td>
+    </tr>
+    <tr>
+      <td>Carretera</td>
+      <td bgcolor="#2446A8">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><code>#2446A8</code></td>
+    </tr>
+  </tbody>
+</table>
 
 | Produto | Cor |
 | --- | --- |
