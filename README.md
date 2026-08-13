@@ -118,14 +118,49 @@ O fundo em lilás-claro (`#F7F5FA`) foi utilizado para criar uma separação sua
 
 ### Produtos
 
-| Produto | Amostra | Hexadecimal |
-| :--- | :---: | :--- |
-| **Paseo** | ![](https://via.placeholder.com/20/5B2A86/5B2A86.png) | ` #5B2A86 ` |
-| **VTT** | ![](https://via.placeholder.com/20/7656B8/7656B8.png) | ` #7656B8 ` |
-| **Velo** | ![](https://via.placeholder.com/20/C44E9B/C44E9B.png) | ` #C44E9B ` |
-| **Amarilla** | ![](https://via.placeholder.com/20/2884C6/2884C6.png) | ` #2884C6 ` |
-| **Montana** | ![](https://via.placeholder.com/20/36A6A6/36A6A6.png) | ` #36A6A6 ` |
-| **Carretera** | ![](https://via.placeholder.com/20/2446A8/2446A8.png) | ` #2446A8 ` |
+<h3>Produtos</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Produto</th>
+      <th align="center">Amostra</th>
+      <th>Hexadecimal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Paseo</b></td>
+      <td align="center"><svg width="20" height="20"><rect width="20" height="20" rx="4" fill="#5B2A86"/></svg></td>
+      <td><code>#5B2A86</code></td>
+    </tr>
+    <tr>
+      <td><b>VTT</b></td>
+      <td align="center"><svg width="20" height="20"><rect width="20" height="20" rx="4" fill="#7656B8"/></svg></td>
+      <td><code>#7656B8</code></td>
+    </tr>
+    <tr>
+      <td><b>Velo</b></td>
+      <td align="center"><svg width="20" height="20"><rect width="20" height="20" rx="4" fill="#C44E9B"/></svg></td>
+      <td><code>#C44E9B</code></td>
+    </tr>
+    <tr>
+      <td><b>Amarilla</b></td>
+      <td align="center"><svg width="20" height="20"><rect width="20" height="20" rx="4" fill="#2884C6"/></svg></td>
+      <td><code>#2884C6</code></td>
+    </tr>
+    <tr>
+      <td><b>Montana</b></td>
+      <td align="center"><svg width="20" height="20"><rect width="20" height="20" rx="4" fill="#36A6A6"/></svg></td>
+      <td><code>#36A6A6</code></td>
+    </tr>
+    <tr>
+      <td><b>Carretera</b></td>
+      <td align="center"><svg width="20" height="20"><rect width="20" height="20" rx="4" fill="#2446A8"/></svg></td>
+      <td><code>#2446A8</code></td>
+    </tr>
+  </tbody>
+</table>
 
 | Produto | Cor |
 | --- | --- |
