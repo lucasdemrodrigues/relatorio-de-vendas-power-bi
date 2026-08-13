@@ -173,7 +173,7 @@ $$ \text{Receita Bruta} - \text{Descontos} = \text{Receita após Descontos} $$
 
 $$ \text{Receita após Descontos} - \text{COGS} = \text{Lucro} $$
 
-$$ \frac{\text{Lucro}}{\text{Receita após Descontos}} \times 100 = \text{Margem de Lucro (\%)} $$
+$$ \left( \frac{\text{Lucro}}{\text{Receita após Descontos}} \right) \times 100 = \text{Margem de Lucro \%} $$
 
 > 💡 *Nota: a base Financial Sample utiliza o campo Sales para representar a receita após descontos, sem considerar outras deduções, como impostos ou devoluções.*
 
