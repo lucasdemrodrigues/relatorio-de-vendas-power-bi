@@ -126,6 +126,7 @@ O fundo em lilás-claro (`#F7F5FA`) foi utilizado para criar uma separação sua
 | **Amarilla** | ![](https://via.placeholder.com/20/2884C6/2884C6.png) | ` #2884C6 ` |
 | **Montana** | ![](https://via.placeholder.com/20/36A6A6/36A6A6.png) | ` #36A6A6 ` |
 | **Carretera** | ![](https://via.placeholder.com/20/2446A8/2446A8.png) | ` #2446A8 ` |
+
 | Produto | Cor |
 | --- | --- |
 | Paseo | `#5B2A86` |
