@@ -30,7 +30,6 @@
 - [Ferramentas Utilizadas](#️-ferramentas-utilizadas)
 - [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Próximos Passos (Evoluções Futuras)](#-próximos-passos-evoluções-futuras)
-- [Autor](#-autor)
 
 ---
 
