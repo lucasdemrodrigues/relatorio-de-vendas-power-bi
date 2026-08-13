@@ -33,9 +33,9 @@
 
 ## 🌐 Contexto
 
-Este projeto foi desenvolvido como parte do **Bootcamp Santander em parceria com a DIO**, utilizando a base **Financials Sample** disponibilizada pela Microsoft.
+Este projeto foi desenvolvido como parte do Bootcamp Santander em parceria com a DIO, utilizando a base Financials Sample, disponibilizada pela Microsoft.
 
-Embora a proposta inicial fosse replicar um relatório do curso, o projeto foi expandido para uma **solução analítica autoral e otimizada**. O foco mudou da simples criação de visuais para a **experiência do usuário (UX), rigor na escolha de gráficos, storytelling de dados e otimização para dispositivos móveis**.
+A proposta consistia em construir e publicar um relatório de vendas no Power BI que permitisse investigar a relação entre vendas e lucratividade sob diferentes perspectivas, como produtos, segmentos, países e períodos.
 
 ### 🎯 Perguntas de Negócio que o Dashboard Responde:
 - **Performance Comercial:** Quais produtos lideram a receita e como o preço médio se comporta por categoria?
