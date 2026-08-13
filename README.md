@@ -50,7 +50,7 @@ A proposta consistia em construir e publicar um relatório de vendas no Power BI
 
 ### 📄 Página 1 — Visão Geral de Produtos
 > **Foco:** Receita, preços médios e evolução mensal por segmento.
-<img width="876" height="489" alt="{0475591D-BD28-48FC-A5E2-A455767399E3}" src="https://github.com/user-attachments/assets/9a7a847d-6e0c-4510-a38a-18eeb83031dd" />
+<img width="872" height="489" alt="{0475591D-BD28-48FC-A5E2-A455767399E3}" src="https://github.com/user-attachments/assets/54815da6-53a7-420b-89cb-3ae63477fb9c" />
 
 ---
 
@@ -62,7 +62,7 @@ A proposta consistia em construir e publicar um relatório de vendas no Power BI
 
 ### 📄 Página 3 — Rentabilidade & Eficiência
 > **Foco:** Margem de lucro, impacto de custos/descontos e identificação de prejuízos por segmento.
-<img width="1744" height="974" alt="pagina-3-rentabilidade-e-eficiencia" src="https://github.com/user-attachments/assets/cdfbb173-a2e0-4f51-87e8-a1270b95ebe8" />
+<img width="869" height="487" alt="{0DC6CD61-DC07-4FA6-A12F-1B1CB47F08A1}" src="https://github.com/user-attachments/assets/95495321-661b-4e90-83d3-b07d8097cb7a" />
 
 ---
 
