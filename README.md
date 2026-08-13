@@ -102,10 +102,10 @@ O projeto priorizou boas práticas de visualização de dados em relação ao re
 | Decisão tomada | Justificativa |
 | --- | --- |
 | **Substituição do mapa por gráficos de barras** | Como a base contempla apenas cinco países e o objetivo é comparar seus desempenhos, as barras possibilitam uma leitura mais precisa sem depender da dimensão territorial de cada país. |
-| **Substituição do gráfico de pizza por barras no lucro por segmento** | Gráficos de pizza não representam adequadamente valores negativos, como o prejuízo do segmento `ENTERPRISE`. As barras horizontais preservam a escala e evidenciam o sinal do resultado. |
-| **Formatação condicional por sinal** | Aplicação dinâmica de roxo (`#5B2A86`) para resultados positivos e vermelho (`#C0392B`) para resultados negativos, direcionando a atenção para segmentos com prejuízo. |
+| **Substituição do gráfico de pizza por barras em *Lucro por segmento*** | Gráficos de pizza não representam adequadamente valores negativos, como o prejuízo do segmento `ENTERPRISE`. As barras horizontais preservam a escala e evidenciam o sinal do resultado. |
+| **Formatação condicional por sinal (DAX)** | Aplicação dinâmica de roxo (#5B2A86) para resultados positivos e vermelho (#C0392B) para resultados negativos, direcionando a atenção para o segmento com prejuízo. |
 | **Gráfico de barras para o preço médio** | Substituição do gráfico de área para evitar a percepção de continuidade entre produtos, que representam categorias independentes. |
-| **Dicas de ferramenta personalizadas** | Páginas específicas exibem informações complementares ao posicionar o cursor sobre os visuais, preservando a objetividade das páginas principais. |
+| **Dicas de ferramenta personalizadas** | Os gráficos *Participação da receita por produto* e *Preço médio de venda por produto* apresentam informações complementares ao posicionar o cursor sobre cada produto, mantendo a página principal limpa e objetiva. |
 
 ---
 
