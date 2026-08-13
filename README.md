@@ -4,8 +4,6 @@
 
 # 📊 Relatório de Vendas — Financials Sample
 
-### Da Visão Geral de Vendas à Análise de Rentabilidade
-
 ![Status Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Bootcamp Santander + DIO](https://img.shields.io/badge/Bootcamp-Santander%20%2B%20DIO-cc0000)
 ![Tema Vendas](https://img.shields.io/badge/Tema-Vendas-5B2A86)
