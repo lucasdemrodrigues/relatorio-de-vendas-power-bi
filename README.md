@@ -20,7 +20,7 @@
 ## 📑 Índice
 
 - [Contexto](#-contexto)
-- [Demonstração Visual (Galeria)](#-demonstração-visual-galeria)
+- [Demonstração visual](#-demonstração-visual)
 - [Principais Business Insights](#-principais-business-insights)
 - [Decisões de Design \& UX (DataViz)](#-decisões-de-design--ux-dataviz)
 - [Modelagem \& Engenharia de Dados](#️-modelagem--engenharia-de-dados)
