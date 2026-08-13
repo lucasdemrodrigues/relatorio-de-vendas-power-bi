@@ -207,4 +207,6 @@ DIVIDE(
     0
 )
 
+
+
 [⬆️ Voltar ao início](#inicio)
