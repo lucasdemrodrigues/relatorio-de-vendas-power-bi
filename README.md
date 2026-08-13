@@ -55,14 +55,30 @@ Receita, preços médios e evolução mensal por segmento.
 
 ---
 
-### 📄 Página 2 — Desempenho Geográfico
-> **Foco:** Comparativo regional entre Receita vs. Lucro, unidades vendidas e tendência temporal.
+### 📄 Página 2 — Desempenho geográfico
+
+Receita, lucro e unidades vendidas por país.
+
+**Perguntas respondidas:**
+
+- Quais países geram mais receita?
+- Quais países apresentam os maiores resultados de lucro?
+- Como o lucro de cada país evolui ao longo do tempo?
+  
 <img width="871" height="488" alt="{668BB0D0-5D47-418A-9312-211EF5EFD988}" src="https://github.com/user-attachments/assets/cadd6163-deed-4b8f-b1ce-10b195971ca3" />
 
 ---
 
-### 📄 Página 3 — Rentabilidade & Eficiência
-> **Foco:** Margem de lucro, impacto de custos/descontos e identificação de prejuízos por segmento.
+### 📄 Página 3 — Rentabilidade e eficiência
+
+Lucro, custos e descontos por produto e segmento.
+
+**Perguntas respondidas:**
+
+- Quais segmentos mais contribuem para o lucro e quais apresentam prejuízo?
+- Como o lucro de cada produto é composto pelos diferentes segmentos?
+- Quais produtos concentram os maiores valores de desconto?
+  
 <img width="869" height="487" alt="{0DC6CD61-DC07-4FA6-A12F-1B1CB47F08A1}" src="https://github.com/user-attachments/assets/95495321-661b-4e90-83d3-b07d8097cb7a" />
 
 ---
