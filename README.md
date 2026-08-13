@@ -99,7 +99,7 @@ Analisando os resultados consolidados do período de 2013 a 2014:
 
 O projeto priorizou boas práticas de visualização de dados em relação ao relatório de referência:
 
-| Decisão tomada | Justificativa |
+| Decisão | Justificativa |
 | --- | --- |
 | **Substituição do mapa por gráficos de barras** | Como a base contempla apenas cinco países e o objetivo é comparar seus desempenhos, as barras possibilitam uma leitura mais precisa sem depender da dimensão territorial de cada país. |
 | **Substituição do gráfico de pizza por barras em *Lucro por segmento*** | Gráficos de pizza não representam adequadamente valores negativos, como o prejuízo do segmento `ENTERPRISE`. As barras horizontais preservam a escala e evidenciam o sinal do resultado. |
