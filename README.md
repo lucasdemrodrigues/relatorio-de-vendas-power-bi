@@ -112,7 +112,7 @@ O projeto priorizou boas práticas de visualização de dados em relação ao re
 
 ### Identidade visual
 
-O fundo em lilás-claro (`#F7F5FA`) foi utilizado para criar uma separação suave em relação aos cartões brancos (`#FFFFFF`), favorecendo a hierarquia visual sem recorrer a contrastes excessivos. As mesmas cores foram mantidas para representar produtos, segmentos e países ao longo do relatório, facilitando o reconhecimento das categorias.
+O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos cartões brancos (#FFFFFF), favorecendo a hierarquia visual. Cada produto, segmento e país conserva sua identificação cromática ao longo de todo o relatório, garantindo consistência visual entre as páginas e acelerando o reconhecimento das categorias.
 
 ### Produtos
 
@@ -144,8 +144,6 @@ O fundo em lilás-claro (`#F7F5FA`) foi utilizado para criar uma separação sua
 | **Alemanha** | ![](https://img.shields.io/badge/-%20-EE7133) | `#EE7133` |
 | **México** | ![](https://img.shields.io/badge/-%20-36A66A) | `#36A66A` |
 | **Estados Unidos** | ![](https://img.shields.io/badge/-%20-C44E9B) | `#C44E9B` |
-
-A consistência das cores reduz o esforço necessário para interpretar os gráficos e mantém uma identidade visual uniforme entre as páginas.
 
 ---
 
