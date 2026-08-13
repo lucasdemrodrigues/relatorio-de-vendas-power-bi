@@ -24,7 +24,7 @@
 - [Principais insights](#-principais-insights)
 - [Decisões de design e visualização de dados](#-decisões-de-design-e-visualização-de-dados)
 - [Sobre os dados](#️-sobre-os-dados)
-- [Regras de negócio e indicadores](#regras-de-negócio-e-indicadores)
+- [Regras de negócio e indicadores](#-regras-de-negócio-e-indicadores)
 - [Preparação dos dados](#️-preparação-dos-dados)
 - [Modelagem \& Engenharia de Dados](#️-modelagem--engenharia-de-dados)
 
