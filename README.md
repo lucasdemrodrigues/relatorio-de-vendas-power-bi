@@ -116,7 +116,7 @@ O fundo em lilás-claro (`#F7F5FA`) foi utilizado para criar uma separação sua
 
 **Produtos**
 
-#### Produtos
+<h3>Produtos</h3>
 
 <table>
   <thead>
@@ -128,33 +128,33 @@ O fundo em lilás-claro (`#F7F5FA`) foi utilizado para criar uma separação sua
   </thead>
   <tbody>
     <tr>
-      <td>Paseo</td>
-      <td bgcolor="#5B2A86">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><b>Paseo</b></td>
+      <td align="center"><span style="display:inline-block; width:18px; height:18px; background-color:#5B2A86; border-radius:4px; border: 1px solid rgba(0,0,0,0.1);"></span></td>
       <td><code>#5B2A86</code></td>
     </tr>
     <tr>
-      <td>VTT</td>
-      <td bgcolor="#7656B8">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><b>VTT</b></td>
+      <td align="center"><span style="display:inline-block; width:18px; height:18px; background-color:#7656B8; border-radius:4px; border: 1px solid rgba(0,0,0,0.1);"></span></td>
       <td><code>#7656B8</code></td>
     </tr>
     <tr>
-      <td>Velo</td>
-      <td bgcolor="#C44E9B">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><b>Velo</b></td>
+      <td align="center"><span style="display:inline-block; width:18px; height:18px; background-color:#C44E9B; border-radius:4px; border: 1px solid rgba(0,0,0,0.1);"></span></td>
       <td><code>#C44E9B</code></td>
     </tr>
     <tr>
-      <td>Amarilla</td>
-      <td bgcolor="#2884C6">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><b>Amarilla</b></td>
+      <td align="center"><span style="display:inline-block; width:18px; height:18px; background-color:#2884C6; border-radius:4px; border: 1px solid rgba(0,0,0,0.1);"></span></td>
       <td><code>#2884C6</code></td>
     </tr>
     <tr>
-      <td>Montana</td>
-      <td bgcolor="#36A6A6">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><b>Montana</b></td>
+      <td align="center"><span style="display:inline-block; width:18px; height:18px; background-color:#36A6A6; border-radius:4px; border: 1px solid rgba(0,0,0,0.1);"></span></td>
       <td><code>#36A6A6</code></td>
     </tr>
     <tr>
-      <td>Carretera</td>
-      <td bgcolor="#2446A8">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><b>Carretera</b></td>
+      <td align="center"><span style="display:inline-block; width:18px; height:18px; background-color:#2446A8; border-radius:4px; border: 1px solid rgba(0,0,0,0.1);"></span></td>
       <td><code>#2446A8</code></td>
     </tr>
   </tbody>
