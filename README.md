@@ -114,7 +114,7 @@ O projeto priorizou boas práticas de visualização de dados em relação ao re
 
 O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos cartões brancos (#FFFFFF), favorecendo a hierarquia visual. Cada produto, segmento e país conserva sua identificação cromática ao longo de todo o relatório, garantindo consistência visual entre as páginas e acelerando o reconhecimento das categorias.
 
-### Produtos
+#### Produtos
 
 | Produto | Amostra | Hexadecimal |
 | :--- | :---: | :--- |
