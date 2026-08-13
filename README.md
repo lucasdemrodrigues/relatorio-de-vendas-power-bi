@@ -8,7 +8,7 @@
 
 ![Status Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Bootcamp Santander + DIO](https://img.shields.io/badge/Bootcamp-Santander%20%2B%20DIO-cc0000)
-![Tema Vendas & Rentabilidade](https://img.shields.io/badge/Tema-Vendas%20%26%20Rentabilidade-5B2A86)
+![Tema Vendas](https://img.shields.io/badge/Tema-Vendas%20%26%20Rentabilidade-5B2A86)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-00758F?logo=sqlite&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-107C41?logo=microsoft-excel&logoColor=white)
