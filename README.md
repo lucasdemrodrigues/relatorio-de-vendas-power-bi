@@ -1,3 +1,5 @@
+<img width="2172" height="724" alt="a66420d1-9cb9-4c8a-8dd0-fba85dafa311" src="https://github.com/user-attachments/assets/304601fe-6334-4e7f-891b-91fb5d0bd031" />
+
 <div align="center">
 
 # 📊 Relatório de Vendas — Financials Sample
