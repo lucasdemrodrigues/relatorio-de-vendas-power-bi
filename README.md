@@ -13,11 +13,6 @@
 ![DAX](https://img.shields.io/badge/DAX-00758F?logo=sqlite&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-107C41?logo=microsoft-excel&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-00758F?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
-
 <p align="center">
   Relatório interativo desenvolvido no Power BI para analisar o desempenho comercial e financeiro da base <b>Financials Sample</b>, conectando receita, lucro, custos, descontos e evolução temporal em uma experiência orientada a dados.
 </p>
