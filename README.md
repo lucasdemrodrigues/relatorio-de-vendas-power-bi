@@ -41,7 +41,7 @@ A proposta consistia em construir e publicar um relatório de vendas no Power BI
 
 ## 📊 Demonstração visual
 
-### 📄 Página 1 — Visão Geral de Produtos
+### 📄 Página 1 — Visão geral de produtos
 
 Receita, preços médios e evolução mensal por segmento.
 
