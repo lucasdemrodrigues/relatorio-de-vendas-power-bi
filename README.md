@@ -157,6 +157,8 @@ O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos ca
 - **Principais campos:** produto, segmento, país, data, unidades vendidas, preço de venda, receita, descontos, custo dos produtos vendidos e lucro;
 - **Moeda:** os campos monetários foram formatados com o símbolo `$`, aplicado pelo Power BI. Como a documentação da amostra não especifica a moeda utilizada, o símbolo foi mantido sem atribuição a uma moeda ou país específico.
 
+---
+
 ## ⚙️ Preparação dos dados
 
 Os dados foram carregados e analisados no Power Query antes da criação dos visuais.
