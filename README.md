@@ -24,6 +24,7 @@
 - [Principais insights](#-principais-insights)
 - [Decisões de design e visualização de dados](#-decisões-de-design-e-visualização-de-dados)
 - [Sobre os dados](#️-sobre-os-dados)
+- [Preparação dos dados](#️-preparação-dos-dados)
 - [Modelagem \& Engenharia de Dados](#️-modelagem--engenharia-de-dados)
 - [Paleta de Cores \& Identidade Visual](#-paleta-de-cores--identidade-visual)
 - [Ferramentas Utilizadas](#️-ferramentas-utilizadas)
@@ -119,6 +120,22 @@ O projeto priorizou boas práticas de visualização de dados em relação ao re
 - **Granularidade:** cada linha representa o desempenho de um produto em determinado país, segmento, faixa de desconto e período;
 - **Principais campos:** produto, segmento, país, data, unidades vendidas, preço de venda, receita, descontos, custo dos produtos vendidos e lucro;
 - **Moeda:** os campos monetários foram formatados com o símbolo `$`, aplicado pelo Power BI. Como a documentação da amostra não especifica a moeda utilizada, o símbolo foi mantido sem atribuição a uma moeda ou país específico.
+
+## ⚙️ Preparação dos dados
+
+Os dados foram carregados e analisados no Power Query antes da criação dos visuais.
+
+Foram realizadas as seguintes etapas:
+
+- Verificação dos tipos de dados das colunas;
+- Verificação da existência de valores nulos;
+- Manutenção dos valores decimais da coluna `Units Sold`.
+
+Os valores decimais de `Units Sold` foram preservados para manter a precisão da base original, pois não foi identificada uma regra de negócio que justificasse seu arredondamento.
+
+Como a base já apresentava uma estrutura adequada ao escopo do projeto, não foram necessárias alterações estruturais nem remoções de registros.
+
+Após o carregamento, as colunas `Sale Price`, `Sales` e `Profit` foram configuradas na exibição de tabela do Power BI com formato monetário e duas casas decimais.
 
 ## ⚙️ Modelagem & Engenharia de Dados
 
