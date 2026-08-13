@@ -27,10 +27,6 @@
 - [Regras de negócio e indicadores](#regras-de-negócio-e-indicadores)
 - [Preparação dos dados](#️-preparação-dos-dados)
 - [Modelagem \& Engenharia de Dados](#️-modelagem--engenharia-de-dados)
-- [Paleta de Cores \& Identidade Visual](#-paleta-de-cores--identidade-visual)
-- [Ferramentas Utilizadas](#️-ferramentas-utilizadas)
-- [Estrutura do Repositório](#-estrutura-do-repositório)
-- [Próximos Passos (Evoluções Futuras)](#-próximos-passos-evoluções-futuras)
 
 ---
 
