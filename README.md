@@ -158,19 +158,22 @@ O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos ca
 
 ## 🧠 Regras de negócio e indicadores
 
-Para orientar a leitura do relatório e garantir o rigor conceitual da análise, foram consideradas as seguintes definições e relações presentes na base de dados:
+Para orientar a leitura do relatório, foram consideradas as seguintes definições e relações presentes na base:
 
-* **Receita Bruta (`Gross Sales`):** Valor total das vendas antes da aplicação de qualquer desconto.
-* **Descontos (`Discounts`):** Montante total concedido em abatimentos comerciais.
-* **Receita após Descontos (`Sales`):** Valor efetivamente capturado após a dedução dos descontos.
-* **Custo das Mercadorias Vendidas (`COGS`):** Custos diretos associados à produção e distribuição dos produtos.
-* **Lucro (`Profit`):** Resultado financeiro final obtido pela operação.
+- **Receita bruta (`Gross Sales`):** valor das vendas antes da aplicação dos descontos;
+- **Descontos (`Discounts`):** valor deduzido da receita bruta;
+- **Receita após descontos (`Sales`):** receita bruta menos os descontos concedidos;
+- **Custo dos produtos vendidos (`COGS`):** custo associado aos produtos comercializados;
+- **Lucro (`Profit`):** receita após descontos menos o custo dos produtos vendidos;
+- **Margem de lucro:** percentual da receita após descontos que permanece como lucro depois da dedução do custo dos produtos vendidos.
 
 ### Relações de cálculo
 
 $$ \text{Receita Bruta} - \text{Descontos} = \text{Receita após Descontos} $$
 
 $$ \text{Receita após Descontos} - \text{COGS} = \text{Lucro} $$
+
+$$ \left( \frac{\text{Lucro}}{\text{Receita após Descontos}} \right) \times 100 = \text{Margem de Lucro (\%)} $$
 
 > 💡 *Nota: a base Financial Sample utiliza o campo Sales para representar a receita após descontos, sem considerar outras deduções, como impostos ou devoluções.*
 
