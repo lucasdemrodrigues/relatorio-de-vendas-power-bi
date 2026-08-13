@@ -21,7 +21,7 @@
 
 - [Contexto](#-contexto)
 - [Estrutura do relatório](#-estrutura-do-relatório)
-- [Principais Business Insights](#-principais-business-insights)
+- [Principais insights](#-principais-insights)
 - [Decisões de Design \& UX (DataViz)](#-decisões-de-design--ux-dataviz)
 - [Modelagem \& Engenharia de Dados](#️-modelagem--engenharia-de-dados)
 - [Paleta de Cores \& Identidade Visual](#-paleta-de-cores--identidade-visual)
@@ -83,15 +83,15 @@ Lucro, custos e descontos por produto e segmento.
 
 ---
 
-## 💡 Principais Business Insights
+## 💡 Principais insights
 
-Analisando o consolidado do período (2013–2014):
+Analisando os resultados consolidados do período de 2013 a 2014:
 
-* 🏛️ **Dependência do Segmento Governamental:** O segmento **Government** representa mais de 67% de todo o lucro da empresa (gerando **$11,39M** dos $16,89M totais). Há uma dependência alta desse canal para a sustentabilidade do negócio.
-* ⚠️ **Ineficiência no Segmento Enterprise:** Apesar de gerar receita, o segmento **Enterprise** opera com margem negativa (**-3,13%**), acumulando um prejuízo de **-$614,5K**. Recomenda-se revisar custos operacionais ou a política de descontos praticada para esse perfil de cliente.
-* 🌍 **Consistência Geográfica vs. Eficiência:** A distribuição de vendas entre os 5 países (França, Alemanha, Canadá, EUA e México) é equilibrada, variando entre **$20M e $25M** por país. No entanto, os **EUA** lideram em receita (**$25,03M**), enquanto a **França** e a **Alemanha** entregam as melhores margens e o maior lucro líquido acumulado (**$3,78M** e **$3,68M**, respectivamente).
-* 🏆 **Liderança e Concessões por Produto:** O produto **Paseo** lidera a receita comercial (**$33,01M**), mas também é o canal que mais concentra concessões comerciais, acumulando **$2,60M** em descontos.
-* 💰 **Volume & Retenção Geral:** A receita líquida totaliza **$118,73M** para **$16,89M** de lucro, resultando em uma margem consolidada de **14,23%** sobre **1,13M** de unidades vendidas.
+* 🏛️ **Dependência do segmento governamental:** o segmento GOVERNMENT responde por aproximadamente 67% do lucro total, com $11,39 milhões dos $16,89 milhões registrados. O resultado indica uma concentração relevante da lucratividade nesse segmento.
+* ⚠️ **Resultado negativo no segmento empresarial:** embora gere receita, o segmento ENTERPRISE apresenta margem negativa de 3,13% e prejuízo de aproximadamente $614,5 mil. Esse resultado sugere a necessidade de investigar sua estrutura de custos, política de descontos e condições comerciais.
+* 🌍 **Equilíbrio de receita entre os países:** a receita apresenta distribuição relativamente equilibrada entre os cinco países, variando de aproximadamente $20 milhões a $25 milhões. Os Estados Unidos lideram em receita, com $25,03 milhões, enquanto França e Alemanha registram os maiores lucros, com $3,78 milhões e $3,68 milhões, respectivamente.
+* 🏆 **Liderança e descontos do produto Paseo:** o produto PASEO lidera a geração de receita, com $33,01 milhões, mas também concentra o maior valor de descontos, totalizando $2,60 milhões. Essa combinação merece acompanhamento para avaliar o impacto das concessões comerciais sobre sua rentabilidade.
+* 💰 **Resultado consolidado:** o período registra $118,73 milhões em receita, $16,89 milhões em lucro e margem de 14,23%, considerando aproximadamente 1,13 milhão de unidades vendidas.
 
 ---
 
