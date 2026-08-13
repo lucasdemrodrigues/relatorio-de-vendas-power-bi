@@ -21,16 +21,16 @@
 
 ## 📑 Índice
 
-- [📌 Contexto \& Desafio](#-contexto--desafio)
-- [📊 Demonstração Visual (Galeria)](#-demonstração-visual-galeria)
-- [💡 Principais Business Insights](#-principais-business-insights)
-- [🎨 Decisões de Design \& UX (DataViz)](#-decisões-de-design--ux-dataviz)
-- [⚙️ Modelagem \& Engenharia de Dados](#️-modelagem--engenharia-de-dados)
-- [🎨 Paleta de Cores \& Identidade Visual](#-paleta-de-cores--identidade-visual)
-- [🛠️ Ferramentas Utilizadas](#️-ferramentas-utilizadas)
-- [📂 Estrutura do Repositório](#-estrutura-do-repositório)
-- [🚀 Próximos Passos (Evoluções Futuras)](#-próximos-passos-evoluções-futuras)
-- [👤 Autor](#-autor)
+- [Contexto \& Desafio](#-contexto--desafio)
+- [Demonstração Visual (Galeria)](#-demonstração-visual-galeria)
+- [Principais Business Insights](#-principais-business-insights)
+- [Decisões de Design \& UX (DataViz)](#-decisões-de-design--ux-dataviz)
+- [Modelagem \& Engenharia de Dados](#️-modelagem--engenharia-de-dados)
+- [Paleta de Cores \& Identidade Visual](#-paleta-de-cores--identidade-visual)
+- [Ferramentas Utilizadas](#️-ferramentas-utilizadas)
+- [Estrutura do Repositório](#-estrutura-do-repositório)
+- [Próximos Passos (Evoluções Futuras)](#-próximos-passos-evoluções-futuras)
+- [Autor](#-autor)
 
 ---
 
