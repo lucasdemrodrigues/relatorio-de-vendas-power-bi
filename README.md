@@ -19,7 +19,7 @@
 
 ## 📑 Índice
 
-- [Contexto \& Desafio](#-contexto--desafio)
+- [Contexto](#-contexto)
 - [Demonstração Visual (Galeria)](#-demonstração-visual-galeria)
 - [Principais Business Insights](#-principais-business-insights)
 - [Decisões de Design \& UX (DataViz)](#-decisões-de-design--ux-dataviz)
