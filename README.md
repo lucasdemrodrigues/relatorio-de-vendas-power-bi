@@ -125,7 +125,7 @@ O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos ca
 | **Montana** | ![](https://img.shields.io/badge/-%20-36A6A6) | `#36A6A6` |
 | **Carretera** | ![](https://img.shields.io/badge/-%20-2446A8) | `#2446A8` |
 
-### Segmentos
+#### Segmentos
 
 | Segmento | Amostra | Hexadecimal |
 | :--- | :---: | :--- |
@@ -135,7 +135,7 @@ O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos ca
 | **Midmarket** | ![](https://img.shields.io/badge/-%20-6B197D) | `#6B197D` |
 | **Small Business** | ![](https://img.shields.io/badge/-%20-D941A6) | `#D941A6` |
 
-### Países
+#### Países
 
 | País | Amostra | Hexadecimal |
 | :--- | :---: | :--- |
