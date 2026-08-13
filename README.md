@@ -206,3 +206,5 @@ DIVIDE(
     SUM(financials[Sales]),
     0
 )
+
+[⬆️ Voltar ao início](#inicio)
