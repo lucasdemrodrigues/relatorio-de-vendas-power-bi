@@ -8,8 +8,8 @@
 ![Bootcamp Santander + DIO](https://img.shields.io/badge/Bootcamp-Santander%20%2B%20DIO-cc0000)
 ![Tema Vendas](https://img.shields.io/badge/Tema-Vendas-5B2A86)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-00758F?logo=sqlite&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-107C41?logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-00758F?logo=sqlite&logoColor=white)
 
 <p align="center">
   Relatório interativo desenvolvido no Power BI para analisar o desempenho comercial e financeiro da base <b>Financials Sample</b>, conectando receita, lucro, custos, descontos e evolução temporal em uma experiência orientada a dados.
