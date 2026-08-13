@@ -31,7 +31,7 @@
 
 ---
 
-## 📌 Contexto & Desafio
+## 📌 Contexto
 
 Este projeto foi desenvolvido como parte do **Bootcamp Santander em parceria com a DIO**, utilizando a base **Financials Sample** disponibilizada pela Microsoft.
 
