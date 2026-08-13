@@ -22,7 +22,7 @@
 - [Contexto](#-contexto)
 - [Estrutura do relatório](#-estrutura-do-relatório)
 - [Principais insights](#-principais-insights)
-- [Decisões de Design \& UX (DataViz)](#-decisões-de-design--ux-dataviz)
+- [Decisões de design e visualização de dados](#-decisões-de-design-e-visualização-de-dados)
 - [Modelagem \& Engenharia de Dados](#️-modelagem--engenharia-de-dados)
 - [Paleta de Cores \& Identidade Visual](#-paleta-de-cores--identidade-visual)
 - [Ferramentas Utilizadas](#️-ferramentas-utilizadas)
@@ -95,18 +95,17 @@ Analisando os resultados consolidados do período de 2013 a 2014:
 
 ---
 
-## 🎨 Decisões de Design & UX (DataViz)
+## 🎨 Decisões de design e visualização de dados
 
-O projeto priorizou boas práticas de visualização em relação ao template básico original:
+O projeto priorizou boas práticas de visualização de dados em relação ao relatório de referência:
 
-| Decisão Tomada | Motivo / Benefício de UX |
-|---|---|
-| **Substituição de Mapas por Barras** | Como a base tem apenas 5 países e o objetivo é ranquear desempenho, gráficos de barras entregam comparação visual precisa sem depender da área geográfica. |
-| **Substituição da Pizza por Barras (Lucro por Segmento)** | Gráficos de pizza falham ao representar partes negativas (ex: prejuízo de *Enterprise*). As barras horizontais preservam a escala e o sinal negativo do resultado. |
-| **Formatação Condicional Dinâmica por Sinal (DAX)** | Aplicação de cor analítica: roxo (`#5B2A86`) para lucro e vermelho (`#C0392B`) dinâmico para prejuízo. Isso direciona o foco imediato do usuário para o segmento *Enterprise*. |
-| **Gráfico de Barras para Preço Médio** | Substituiu o gráfico de área, evitando sugerir uma falsa continuidade temporal entre produtos que são categorias independentes. |
-| **Tooltips Personalizadas (Page-by-Page)** | Páginas ocultas fornecem contexto sob demanda ao passar o mouse, mantendo a tela principal limpa e objetiva. |
-| **Layout Mobile Dedicado** | Reorganização do fluxo visual em coluna única para navegação perfeita em telas de smartphones. |
+| Decisão tomada | Justificativa |
+| --- | --- |
+| **Substituição do mapa por gráficos de barras** | Como a base contempla apenas cinco países e o objetivo é comparar seus desempenhos, as barras possibilitam uma leitura mais precisa sem depender da dimensão territorial de cada país. |
+| **Substituição do gráfico de pizza por barras no lucro por segmento** | Gráficos de pizza não representam adequadamente valores negativos, como o prejuízo do segmento `ENTERPRISE`. As barras horizontais preservam a escala e evidenciam o sinal do resultado. |
+| **Formatação condicional por sinal** | Aplicação dinâmica de roxo (`#5B2A86`) para resultados positivos e vermelho (`#C0392B`) para resultados negativos, direcionando a atenção para segmentos com prejuízo. |
+| **Gráfico de barras para o preço médio** | Substituição do gráfico de área para evitar a percepção de continuidade entre produtos, que representam categorias independentes. |
+| **Dicas de ferramenta personalizadas** | Páginas específicas exibem informações complementares ao posicionar o cursor sobre os visuais, preservando a objetividade das páginas principais. |
 
 ---
 
