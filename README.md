@@ -101,13 +101,51 @@ Analisando os resultados consolidados do período de 2013 a 2014:
 
 O projeto priorizou boas práticas de visualização de dados em relação ao relatório de referência:
 
-| Decisão | Justificativa |
+| **Decisão** | **Justificativa** |
 | --- | --- |
 | **Substituição do mapa por gráficos de barras** | Como a base contempla apenas cinco países e o objetivo é comparar seus desempenhos, as barras possibilitam uma leitura mais precisa sem depender da dimensão territorial de cada país. |
 | **Substituição do gráfico de pizza por barras em *Lucro por segmento*** | Gráficos de pizza não representam adequadamente valores negativos, como o prejuízo do segmento `ENTERPRISE`. As barras horizontais preservam a escala e evidenciam o sinal do resultado. |
-| **Formatação condicional por sinal (DAX)** | Aplicação dinâmica de roxo (#5B2A86) para resultados positivos e vermelho (#C0392B) para resultados negativos, direcionando a atenção para o segmento com prejuízo. |
+| **Formatação condicional por sinal (DAX)** | Aplicação dinâmica de roxo (`#5B2A86`) para resultados positivos e vermelho (`#C0392B`) para resultados negativos, direcionando a atenção para o segmento com prejuízo. |
 | **Gráfico de barras para o preço médio** | Substituição do gráfico de área para evitar a percepção de continuidade entre produtos, que representam categorias independentes. |
 | **Dicas de ferramenta personalizadas** | Os gráficos *Participação da receita por produto* e *Preço médio de venda por produto* apresentam informações complementares ao posicionar o cursor sobre cada produto, mantendo a página principal limpa e objetiva. |
+| **Organização do cabeçalho e navegação** | O título, o segmentador de período e os botões de navegação foram reunidos no cabeçalho, mantendo os controles consistentes entre as páginas e liberando espaço para os visuais. |
+
+### Paleta de cores e identidade visual
+
+A identidade visual combina fundo em tom lilás-claro, cartões brancos e uma paleta de cores consistente entre os gráficos. As mesmas cores foram mantidas para representar produtos, segmentos e países ao longo do relatório, facilitando o reconhecimento das categorias.
+
+**Produtos**
+
+| Produto | Cor |
+| --- | --- |
+| Paseo | `#5B2A86` |
+| VTT | `#7656B8` |
+| Velo | `#C44E9B` |
+| Amarilla | `#2884C6` |
+| Montana | `#36A6A6` |
+| Carretera | `#2446A8` |
+
+**Segmentos**
+
+| Segmento | Cor |
+| --- | --- |
+| Channel Partners | `#2884C6` |
+| Enterprise | `#2446A8` |
+| Government | `#EE7133` |
+| Midmarket | `#6B197D` |
+| Small Business | `#D941A6` |
+
+**Países**
+
+| País | Cor |
+| --- | --- |
+| Canadá | `#2884C6` |
+| França | `#2446A8` |
+| Alemanha | `#EE7133` |
+| México | `#36A66A` |
+| Estados Unidos | `#C44E9B` |
+
+A consistência das cores reduz o esforço necessário para interpretar os gráficos e mantém uma identidade visual uniforme entre as páginas.
 
 ---
 
