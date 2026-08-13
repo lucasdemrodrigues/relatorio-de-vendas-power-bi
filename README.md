@@ -27,6 +27,7 @@
 - [Regras de negócio e indicadores](#-regras-de-negócio-e-indicadores)
 - [Preparação dos dados](#️-preparação-dos-dados)
 - [Modelagem \& Engenharia de Dados](#️-modelagem--engenharia-de-dados)
+- [Referência do desafio](#-referência-do-desafio)
 
 ---
 
@@ -201,5 +202,11 @@ Após o carregamento, as colunas `Sale Price`, `Sales` e `Profit` foram configur
 
 **1. Margem de Lucro Consolidada**
 Calculada via DAX garantindo segurança contra divisões por zero e dinamicidade ao contexto de filtro:
+
+## 🔗 Referência do desafio
+
+- [Repositório power_bi_analyst — Juliana Zanelatto](https://github.com/julianazanelatto/power_bi_analyst)
+
+*A partir da proposta original, foram realizadas melhorias na construção dos indicadores, na escolha dos visuais, nas dicas de ferramenta, na navegação e na identidade visual do relatório.*
 
 [⬆️ Voltar ao início](#inicio)
