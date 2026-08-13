@@ -20,7 +20,7 @@
 ## 📑 Índice
 
 - [Contexto](#-contexto)
-- [Demonstração visual](#-demonstração-visual)
+- [Páginas do relatório](#-páginas-do-relatório)
 - [Principais Business Insights](#-principais-business-insights)
 - [Decisões de Design \& UX (DataViz)](#-decisões-de-design--ux-dataviz)
 - [Modelagem \& Engenharia de Dados](#️-modelagem--engenharia-de-dados)
@@ -39,7 +39,7 @@ A proposta consistia em construir e publicar um relatório de vendas no Power BI
 
 ---
 
-## 📊 Demonstração visual
+## 📊 Páginas do relatório
 
 ### 📄 Página 1 — Visão geral de produtos
 
