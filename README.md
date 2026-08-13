@@ -114,21 +114,6 @@ O projeto priorizou boas práticas de visualização de dados em relação ao re
 
 O fundo em lilás-claro (`#F7F5FA`) foi utilizado para criar uma separação suave em relação aos cartões brancos (`#FFFFFF`), favorecendo a hierarquia visual sem recorrer a contrastes excessivos. As mesmas cores foram mantidas para representar produtos, segmentos e países ao longo do relatório, facilitando o reconhecimento das categorias.
 
-**Produtos**
-
-### Produtos
-
-### Produtos
-
-| Produto | Amostra | Hexadecimal |
-| :--- | :---: | :--- |
-| **Paseo** | 🟣 | `#5B2A86` |
-| **VTT** | 🟪 | `#7656B8` |
-| **Velo** | 🟪 | `#C44E9B` |
-| **Amarilla** | 🔵 | `#2884C6` |
-| **Montana** | 🟦 | `#36A6A6` |
-| **Carretera** | 🔵 | `#2446A8` |
-
 ### Produtos
 
 | Produto | Amostra | Hexadecimal |
@@ -140,34 +125,27 @@ O fundo em lilás-claro (`#F7F5FA`) foi utilizado para criar uma separação sua
 | **Montana** | ![](https://img.shields.io/badge/-%20-36A6A6) | `#36A6A6` |
 | **Carretera** | ![](https://img.shields.io/badge/-%20-2446A8) | `#2446A8` |
 
-| Produto | Cor |
-| --- | --- |
-| Paseo | `#5B2A86` |
-| VTT | `#7656B8` |
-| Velo | `#C44E9B` |
-| Amarilla | `#2884C6` |
-| Montana | `#36A6A6` |
-| Carretera | `#2446A8` |
-
 **Segmentos**
 
-| Segmento | Cor |
-| --- | --- |
-| Channel Partners | `#2884C6` |
-| Enterprise | `#2446A8` |
-| Government | `#EE7133` |
-| Midmarket | `#6B197D` |
-| Small Business | `#D941A6` |
+### Segmentos
 
-**Países**
+| Segmento | Amostra | Hexadecimal |
+| :--- | :---: | :--- |
+| **Channel Partners** | ![](https://img.shields.io/badge/-%20-2884C6) | `#2884C6` |
+| **Enterprise** | ![](https://img.shields.io/badge/-%20-2446A8) | `#2446A8` |
+| **Government** | ![](https://img.shields.io/badge/-%20-EE7133) | `#EE7133` |
+| **Midmarket** | ![](https://img.shields.io/badge/-%20-6B197D) | `#6B197D` |
+| **Small Business** | ![](https://img.shields.io/badge/-%20-D941A6) | `#D941A6` |
 
-| País | Cor |
-| --- | --- |
-| Canadá | `#2884C6` |
-| França | `#2446A8` |
-| Alemanha | `#EE7133` |
-| México | `#36A66A` |
-| Estados Unidos | `#C44E9B` |
+### Países
+
+| País | Amostra | Hexadecimal |
+| :--- | :---: | :--- |
+| **Canadá** | ![](https://img.shields.io/badge/-%20-2884C6) | `#2884C6` |
+| **França** | ![](https://img.shields.io/badge/-%20-2446A8) | `#2446A8` |
+| **Alemanha** | ![](https://img.shields.io/badge/-%20-EE7133) | `#EE7133` |
+| **México** | ![](https://img.shields.io/badge/-%20-36A66A) | `#36A66A` |
+| **Estados Unidos** | ![](https://img.shields.io/badge/-%20-C44E9B) | `#C44E9B` |
 
 A consistência das cores reduz o esforço necessário para interpretar os gráficos e mantém uma identidade visual uniforme entre as páginas.
 
