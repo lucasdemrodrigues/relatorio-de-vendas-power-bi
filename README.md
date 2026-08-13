@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Relatório de Vendas no Power BI: Financials Sample
+# Relatório de Vendas no Power BI: Financial Sample
 
 ![Status Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Bootcamp Santander + DIO](https://img.shields.io/badge/Bootcamp-Santander%20%2B%20DIO-cc0000)
@@ -23,6 +23,7 @@
 - [Estrutura do relatório](#-estrutura-do-relatório)
 - [Principais insights](#-principais-insights)
 - [Decisões de design e visualização de dados](#-decisões-de-design-e-visualização-de-dados)
+- [Sobre os dados](#️-sobre-os-dados)
 - [Modelagem \& Engenharia de Dados](#️-modelagem--engenharia-de-dados)
 - [Paleta de Cores \& Identidade Visual](#-paleta-de-cores--identidade-visual)
 - [Ferramentas Utilizadas](#️-ferramentas-utilizadas)
@@ -33,7 +34,7 @@
 
 ## 🌐 Contexto
 
-Este projeto foi desenvolvido como parte do Bootcamp Santander em parceria com a DIO, utilizando a base Financials Sample, disponibilizada pela Microsoft.
+Este projeto foi desenvolvido como parte do Bootcamp Santander em parceria com a DIO, utilizando a base Financial Sample, disponibilizada pela Microsoft.
 
 A proposta consistia em construir e publicar um relatório de vendas no Power BI que permitisse investigar a relação entre vendas e lucratividade sob diferentes perspectivas, como produtos, segmentos, países e períodos.
 
@@ -109,12 +110,17 @@ O projeto priorizou boas práticas de visualização de dados em relação ao re
 
 ---
 
-## ⚙️ Modelagem & Engenharia de Dados
+## 🗂️ Sobre os dados
 
-### 🗂️ Estrutura da Base
-- **Fonte:** Microsoft Financials Sample (700 linhas, período 2013-2014).
-- **Tabela Única:** `financials` (Visão flat, ideal para análise exploratória e descritiva).
-- **Moeda:** Mantida em **USD ($)** para preservar a integridade da amostra original sem introduzir ruído cambial.
+- **Fonte:** Microsoft Financial Sample;
+- **Período:** setembro de 2013 a dezembro de 2014;
+- **Volume:** 700 registros;
+- **Estrutura:** tabela única denominada `financials`;
+- **Granularidade:** cada linha representa o desempenho de um produto em determinado país, segmento, faixa de desconto e período;
+- **Principais campos:** produto, segmento, país, data, unidades vendidas, preço de venda, receita, descontos, custo dos produtos vendidos e lucro;
+- **Moeda:** os campos monetários foram formatados com o símbolo `$`, aplicado pelo Power BI. Como a documentação da amostra não especifica a moeda utilizada, o símbolo foi mantido sem atribuição a uma moeda ou país específico.
+
+## ⚙️ Modelagem & Engenharia de Dados
 
 ### 📐 Medidas DAX Principais
 
