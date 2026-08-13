@@ -199,14 +199,4 @@ Após o carregamento, as colunas `Sale Price`, `Sales` e `Profit` foram configur
 **1. Margem de Lucro Consolidada**
 Calculada via DAX garantindo segurança contra divisões por zero e dinamicidade ao contexto de filtro:
 
-```dax
-Margem de Lucro = 
-DIVIDE(
-    SUM(financials[Profit]),
-    SUM(financials[Sales]),
-    0
-)
-
-
-
 [⬆️ Voltar ao início](#inicio)
