@@ -26,7 +26,7 @@
 - [Sobre os dados](#️-sobre-os-dados)
 - [Regras de negócio e indicadores](#-regras-de-negócio-e-indicadores)
 - [Preparação dos dados](#️-preparação-dos-dados)
-- [Modelagem \& Engenharia de Dados](#️-modelagem--engenharia-de-dados)
+- [Medidas DAX](#️-medidas-dax)
 - [Referência do desafio](#-referência-do-desafio)
 
 ---
@@ -196,7 +196,7 @@ Como a base já apresentava uma estrutura adequada ao escopo do projeto, não fo
 
 Após o carregamento, as colunas `Sale Price`, `Sales` e `Profit` foram configuradas na exibição de tabela do Power BI com formato monetário e duas casas decimais.
 
-## ⚙️ Medidas DAX
+## 📐 Medidas DAX
 
 Foram criadas medidas DAX para calcular indicadores de rentabilidade, avaliar o efeito dos descontos e aplicar formatação condicional aos resultados. As medidas respondem dinamicamente aos contextos de filtro e às categorias utilizadas nos visuais.
 
@@ -224,9 +224,9 @@ DIVIDE(
 ```
 
 ### 2. Preço médio bruto por unidade
-
 Calcula quanto cada unidade vendida representou, em média, antes da aplicação dos descontos.
 
+```dax
 Preço Médio Bruto por Unidade =
 DIVIDE(
     SUM(financials[Gross Sales]),
