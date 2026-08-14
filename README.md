@@ -210,3 +210,7 @@ Calculada via DAX garantindo segurança contra divisões por zero e dinamicidade
 *A partir da proposta original, foram realizadas melhorias na construção dos indicadores, na escolha dos visuais, nas dicas de ferramenta, na navegação e na identidade visual do relatório.*
 
 [⬆️ Voltar ao início](#inicio)
+
+---
+
+> **Nota:** este README foi escrito originalmente em português. A tradução automática do navegador pode alterar termos técnicos ou elementos de formatação. Para uma melhor experiência, consulte a versão original da página.
