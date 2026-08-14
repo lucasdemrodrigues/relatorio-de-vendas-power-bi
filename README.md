@@ -248,7 +248,7 @@ DIVIDE(
 
 A comparação entre os preços bruto e líquido permite observar o efeito dos descontos sobre o valor médio gerado por unidade. Diferentemente da média simples da coluna Sale Price, essas medidas consideram a quantidade de unidades vendidas.
 
-4. Taxa de desconto
+### 4. Taxa de desconto
 Calcula a participação dos descontos sobre a receita bruta. A medida permite comparar proporcionalmente o efeito das concessões comerciais, independentemente do volume de vendas.
 
 ```dax
@@ -260,7 +260,7 @@ DIVIDE(
 )
 ```
 
-5. Desconto total
+### 5. Desconto total
 Soma o valor dos descontos concedidos no contexto analisado.
 
 ```dax
@@ -268,7 +268,7 @@ Desconto Total =
 SUM(financials[Discounts])
 ```
 
-6. Cor do resultado
+### 6. Cor do resultado
 Retorna uma cor de acordo com o sinal do lucro no contexto de filtro: vermelho para resultados negativos e roxo para resultados positivos ou iguais a zero.
 
 ```dax
