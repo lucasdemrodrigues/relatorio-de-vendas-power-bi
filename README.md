@@ -39,7 +39,7 @@
 
 Este projeto foi desenvolvido como parte do Bootcamp Santander em parceria com a DIO, utilizando a base Financial Sample, disponibilizada pela Microsoft.
 
-A proposta foi construir e publicar um relatório de vendas no Power BI que permitisse investigar a relação entre vendas e lucratividade sob diferentes perspectivas, como produtos, segmentos, países e períodos.
+A proposta foi construir e publicar um relatório de vendas no Power BI para investigar a relação entre vendas e lucratividade sob diferentes perspectivas, como produtos, segmentos, países e períodos.
 
 ---
 
