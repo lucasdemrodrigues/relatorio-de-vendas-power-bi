@@ -27,9 +27,7 @@
 - [Estrutura do relatório](#-estrutura-do-relatório)
 - [Principais insights](#-principais-insights)
 - [Decisões de design e visualização de dados](#-decisões-de-design-e-visualização-de-dados)
-- [Sobre os dados](#️-sobre-os-dados)
-- [Preparação dos dados](#️-preparação-dos-dados)
-- [Regras de negócio e indicadores](#-regras-de-negócio-e-indicadores)
+- [Base e preparação dos dados](#️-base-e-preparação-dos-dados)
 - [Medidas DAX](#-medidas-dax)
 - [Referência](#-referência)
 
