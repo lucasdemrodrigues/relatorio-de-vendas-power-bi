@@ -109,7 +109,7 @@ Analisando os resultados consolidados do período de 2013 a 2014:
 
 ## 🎨 Design e visualização de dados
 
-O projeto priorizou boas práticas de visualização de dados em relação ao relatório de referência:
+A partir do relatório de referência, foram realizadas adaptações com foco na clareza das visualizações, na organização das informações e na experiência de navegação:
 
 | **Decisão** | **Justificativa** |
 | --- | --- |
@@ -291,8 +291,6 @@ IF(
 ## 🔗 Referência
 
 - [Repositório power_bi_analyst — Juliana Zanelatto](https://github.com/julianazanelatto/power_bi_analyst)
-
-*A partir da proposta original, foram realizadas melhorias na construção dos indicadores, na escolha dos visuais, nas dicas de ferramenta, na navegação e na identidade visual do relatório.*
 
 [⬆️ Voltar ao início](#inicio)
 
