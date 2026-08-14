@@ -211,7 +211,7 @@ Para orientar a leitura do relatório, foram consideradas as seguintes definiç�
 - **Receita após descontos (`Sales`):** receita bruta menos os descontos concedidos;
 - **Custo dos produtos vendidos (`COGS`):** custo associado aos produtos comercializados;
 - **Lucro (`Profit`):** receita após descontos menos o custo dos produtos vendidos;
-- **Margem de lucro:** percentual da receita após descontos que permanece como lucro depois da dedução do custo dos produtos vendidos.
+- **Margem de lucro:** percentual obtido pela divisão do lucro pela receita após descontos, indicando quanto dessa receita permanece como lucro depois da dedução do custo dos produtos vendidos.
 
 #### Relações de cálculo
 
