@@ -14,11 +14,11 @@
 ![DAX](https://img.shields.io/badge/DAX-00758F)
 
 <p align="center">
-  Relatório interativo em Power BI que investiga a relação entre vendas e lucratividade, identificando os produtos, segmentos e países que mais contribuem para os resultados.
+  📁 <b>Downloads:</b> <a href="./relatorio-de-vendas.pbix">Relatório (.pbix)</a> • <a href="./base-financial-sample.xlsx">Base de dados (.xlsx)</a>
 </p>
 
 <p align="center">
-  📁 <b>Downloads:</b> <a href="./relatorio-de-vendas.pbix">Relatório (.pbix)</a> • <a href="./base-financial-sample.xlsx">Base de dados (.xlsx)</a>
+  Relatório interativo em Power BI que investiga a relação entre vendas e lucratividade, identificando os produtos, segmentos e países que mais contribuem para os resultados.
 </p>
 
 </div>
