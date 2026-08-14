@@ -280,8 +280,6 @@ IF(
 )
 ```
 
-A medida foi utilizada na formatação condicional do gráfico Lucro por segmento, destacando visualmente o prejuízo apresentado pelo segmento ENTERPRISE.
-
 ## 🔗 Referência
 
 - [Repositório power_bi_analyst — Juliana Zanelatto](https://github.com/julianazanelatto/power_bi_analyst)
