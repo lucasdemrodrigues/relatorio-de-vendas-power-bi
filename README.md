@@ -87,6 +87,16 @@ Lucro, custos e descontos por produto e segmento.
 
 ---
 
+### 🔍 Páginas auxiliares (Dicas de ferramenta personalizadas)
+
+| Indicadores do produto | Preços e descontos do produto |
+| :---: | :---: |
+| <img width="928" height="395" alt="{8752CF97-7DEC-4D77-9DB3-971BE9AA1178}" src="https://github.com/user-attachments/assets/fe7a93eb-ba0a-435b-99be-2f18a78d5b0b" />
+ | <img width="926" height="421" alt="{1345650D-9621-4CF9-A507-EA6701E0C884}" src="https://github.com/user-attachments/assets/3f2ab370-dbaf-4e7c-9358-ec1a54bd836e" /> |
+| *Exibe receita, lucro e volume do produto selecionado.* | *Compara preços brutos, líquidos e taxa de desconto.* |
+
+---
+
 ## 💡 Principais insights
 
 Analisando os resultados consolidados do período de 2013 a 2014:
