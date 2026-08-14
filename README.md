@@ -89,7 +89,7 @@ Lucro, custos e descontos por produto e segmento.
 
 ### Páginas auxiliares (dicas de ferramenta personalizadas)
 
-| <img width="400" alt="Indicadores do produto" src="https://github.com/user-attachments/assets/fe7a93eb-ba0a-435b-99be-2f18a78d5b0b" /> | <img width="400" alt="Preços e descontos do produto" src="https://github.com/user-attachments/assets/3f2ab370-dbaf-4e7c-9358-ec1a54bd836e" /> |
+| <img width="400" alt="Indicadores do produto" src="https://github.com/user-attachments/assets/f0a5bbf8-4aef-4af6-b53f-873874314501" /> | <img width="400" alt="Preços e descontos do produto" src="https://github.com/user-attachments/assets/3f2ab370-dbaf-4e7c-9358-ec1a54bd836e" /> |
 | :---: | :---: |
 | *Apresenta receita, lucro e unidades vendidas do produto selecionado.* | *Compara os preços bruto e líquido por unidade e apresenta a taxa e o valor total dos descontos.* |
 
