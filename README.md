@@ -1,4 +1,4 @@
-<img width="4400" height="777" alt="banner-relatorio-vendas-power-bi-final" src="https://github.com/user-attachments/assets/e4f89878-f24f-4c13-b75f-23f935028649" />
+<img width="1024" height="180" alt="image" src="https://github.com/user-attachments/assets/a085d9ef-8fc7-42e2-95b2-ca77cb17ac6b" />
 
 <div align="center">
 
