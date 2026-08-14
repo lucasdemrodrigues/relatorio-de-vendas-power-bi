@@ -66,7 +66,7 @@ Receita, lucro e unidades vendidas por país.
 **Perguntas respondidas:**
 
 - Quais países geram mais receita?
-- Quais países apresentam os maiores resultados de lucro?
+- Quais países apresentam os maiores lucros?
 - Como o lucro de cada país evolui ao longo do tempo?
   
 <img width="871" height="488" alt="{668BB0D0-5D47-418A-9312-211EF5EFD988}" src="https://github.com/user-attachments/assets/cadd6163-deed-4b8f-b1ce-10b195971ca3" />
