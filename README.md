@@ -1,6 +1,6 @@
 <div id="inicio"></div>
 
-<img width="2170" height="379" alt="ChatGPT Image 14 de ago  de 2026, 00_14_19" src="https://github.com/user-attachments/assets/dc876b73-496e-4173-8b7c-004881082eaf" />
+<img width="2170" height="379" alt="Banner do projeto Relatório de Vendas no Power BI" src="https://github.com/user-attachments/assets/dc876b73-496e-4173-8b7c-004881082eaf" />
 
 <div align="center">
 
