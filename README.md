@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  📁 <b>Arquivos:</b> <a href="./relatorio-de-vendas.pbix">Relatório (.pbix)</a> • <a href="./base-financial-sample.xlsx">Base de dados (.xlsx)</a>
+  📁 <b>Downloads:</b> <a href="./relatorio-de-vendas.pbix">Relatório (.pbix)</a> • <a href="./base-financial-sample.xlsx">Base de dados (.xlsx)</a>
 </p>
 
 </div>
