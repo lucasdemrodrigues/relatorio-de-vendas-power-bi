@@ -28,8 +28,8 @@
 - [Principais insights](#-principais-insights)
 - [Decisões de design e visualização de dados](#-decisões-de-design-e-visualização-de-dados)
 - [Sobre os dados](#️-sobre-os-dados)
-- [Regras de negócio e indicadores](#-regras-de-negócio-e-indicadores)
 - [Preparação dos dados](#️-preparação-dos-dados)
+- [Regras de negócio e indicadores](#-regras-de-negócio-e-indicadores)
 - [Medidas DAX](#-medidas-dax)
 - [Referência](#-referência)
 
@@ -161,6 +161,24 @@ O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos ca
 
 ---
 
+## ⚙️ Preparação dos dados
+
+Os dados foram carregados e analisados no Power Query antes da criação dos visuais.
+
+Foram realizadas as seguintes etapas:
+
+- Verificação dos tipos de dados das colunas;
+- Verificação da existência de valores nulos;
+- Manutenção dos valores decimais da coluna `Units Sold`.
+
+Os valores decimais de `Units Sold` foram preservados para manter a precisão da base original, pois não foi identificada uma regra de negócio que justificasse seu arredondamento.
+
+Como a base já apresentava uma estrutura adequada ao escopo do projeto, não foram necessárias alterações estruturais nem remoções de registros.
+
+Após o carregamento, as colunas `Sale Price`, `Sales` e `Profit` foram configuradas na exibição de tabela do Power BI com formato monetário e duas casas decimais.
+
+---
+
 ## 🧠 Regras de negócio e indicadores
 
 Para orientar a leitura do relatório, foram consideradas as seguintes definições e relações presentes na base:
@@ -181,24 +199,6 @@ $$ \text{Receita após Descontos} - \text{COGS} = \text{Lucro} $$
 $$ \left( \frac{\text{Lucro}}{\text{Receita após Descontos}} \right) \times 100 = \text{Margem de Lucro \%} $$
 
 > 💡 *Nota: a base Financial Sample utiliza o campo Sales para representar a receita após descontos, sem considerar outras deduções, como impostos ou devoluções.*
-
----
-
-## ⚙️ Preparação dos dados
-
-Os dados foram carregados e analisados no Power Query antes da criação dos visuais.
-
-Foram realizadas as seguintes etapas:
-
-- Verificação dos tipos de dados das colunas;
-- Verificação da existência de valores nulos;
-- Manutenção dos valores decimais da coluna `Units Sold`.
-
-Os valores decimais de `Units Sold` foram preservados para manter a precisão da base original, pois não foi identificada uma regra de negócio que justificasse seu arredondamento.
-
-Como a base já apresentava uma estrutura adequada ao escopo do projeto, não foram necessárias alterações estruturais nem remoções de registros.
-
-Após o carregamento, as colunas `Sale Price`, `Sales` e `Profit` foram configuradas na exibição de tabela do Power BI com formato monetário e duas casas decimais.
 
 ---
 
