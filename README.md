@@ -224,14 +224,14 @@ $$ \left( \frac{\text{Lucro}}{\text{Receita após Descontos}} \right) \times 100
 
 Essas relações também foram utilizadas para validar a consistência dos totais apresentados nos cartões e visuais do relatório.
 
-> 💡 *Nota: na base Financial Sample, o campo Sales representa a receita após os descontos registrados. Como a base não apresenta campos específicos para impostos ou devoluções, esses valores não foram considerados na análise.*
+> 💡 *Nota: na base Financial Sample, o campo `Sales` representa a receita após os descontos registrados. Como a base não apresenta campos específicos para impostos ou devoluções, esses valores não foram considerados na análise.*
 
 ### Limitações da análise
 
 - A base é uma amostra educacional e não representa as operações de uma empresa real;
 - A análise possui caráter descritivo e exploratório, sem metas ou orçamento para comparação;
 - O histórico disponível não permite comparações anuais completas;
-- A base não inclui despesas operacionais, impostos ou fluxo de caixa. Como Profit considera apenas a receita após descontos menos o custo dos produtos vendidos (COGS), esse indicador não representa o resultado líquido da operação;
+- A base não inclui despesas operacionais, impostos ou fluxo de caixa. Como `Profit` considera apenas a receita após descontos menos o custo dos produtos vendidos (`COGS`), esse indicador não representa o resultado líquido da operação;
 - A concentração de descontos indica pontos de investigação, mas não comprova uma relação causal com o desempenho;
 - O modelo utiliza uma estrutura de tabela única (*flat table*), sem aplicação de modelagem dimensional em estrela (*Star Schema*).
 
@@ -283,7 +283,7 @@ DIVIDE(
 )
 ```
 
-A comparação entre os preços bruto e líquido por unidade permite observar o efeito dos descontos sobre o valor médio gerado. Diferentemente da média simples da coluna Sale Price (que atribui o mesmo peso a cada linha), essas medidas calculam a média ponderada pelo volume total de unidades vendidas.
+A comparação entre os preços bruto e líquido por unidade permite observar o efeito dos descontos sobre o valor médio gerado. Diferentemente da média simples da coluna `Sale Price` (que atribui o mesmo peso a cada linha), essas medidas calculam a média ponderada pelo volume total de unidades vendidas.
 
 ### 4. Taxa de desconto
 Calcula a participação dos descontos sobre a receita bruta. A medida permite comparar proporcionalmente o efeito das concessões comerciais, independentemente do volume de vendas.
