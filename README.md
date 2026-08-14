@@ -28,7 +28,7 @@
 - [Contexto](#-contexto)
 - [Estrutura do relatório](#-estrutura-do-relatório)
 - [Principais insights](#-principais-insights)
-- [Decisões de design e visualização de dados](#-decisões-de-design-e-visualização-de-dados)
+- [Design e visualização de dados](#-design-e-visualização-de-dados)
 - [Base e preparação dos dados](#️-base-e-preparação-dos-dados)
 - [Medidas DAX](#-medidas-dax)
 - [Referência](#-referência)
@@ -107,7 +107,7 @@ Analisando os resultados consolidados do período de 2013 a 2014:
 
 ---
 
-## 🎨 Decisões de design e visualização de dados
+## 🎨 Design e visualização de dados
 
 O projeto priorizou boas práticas de visualização de dados em relação ao relatório de referência:
 
