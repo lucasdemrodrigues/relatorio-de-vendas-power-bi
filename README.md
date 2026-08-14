@@ -124,6 +124,50 @@ A partir do relatório de referência, foram realizadas adaptações com foco na
 
 O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos cartões brancos (#FFFFFF), favorecendo a hierarquia visual. Cada produto, segmento e país conserva sua identificação cromática ao longo de todo o relatório, garantindo consistência visual entre as páginas e acelerando o reconhecimento das categorias.
 
+<table>
+<tr>
+<th align="center"><b>Produtos</b></th>
+<th align="center"><b>Segmentos</b></th>
+<th align="center"><b>Países</b></th>
+</tr>
+<tr valign="top">
+<td>
+
+| Produto | Amostra | Hex |
+| :--- | :---: | :--- |
+| **Paseo** | ![](https://img.shields.io/badge/-%20-5B2A86) | `#5B2A86` |
+| **VTT** | ![](https://img.shields.io/badge/-%20-7656B8) | `#7656B8` |
+| **Velo** | ![](https://img.shields.io/badge/-%20-C44E9B) | `#C44E9B` |
+| **Amarilla** | ![](https://img.shields.io/badge/-%20-2884C6) | `#2884C6` |
+| **Montana** | ![](https://img.shields.io/badge/-%20-36A6A6) | `#36A6A6` |
+| **Carretera** | ![](https://img.shields.io/badge/-%20-2446A8) | `#2446A8` |
+
+</td>
+<td>
+
+| Segmento | Amostra | Hex |
+| :--- | :---: | :--- |
+| **Channel Partners** | ![](https://img.shields.io/badge/-%20-2884C6) | `#2884C6` |
+| **Enterprise** | ![](https://img.shields.io/badge/-%20-2446A8) | `#2446A8` |
+| **Government** | ![](https://img.shields.io/badge/-%20-EE7133) | `#EE7133` |
+| **Midmarket** | ![](https://img.shields.io/badge/-%20-6B197D) | `#6B197D` |
+| **Small Business** | ![](https://img.shields.io/badge/-%20-D941A6) | `#D941A6` |
+
+</td>
+<td>
+
+| País | Amostra | Hex |
+| :--- | :---: | :--- |
+| **Canadá** | ![](https://img.shields.io/badge/-%20-2884C6) | `#2884C6` |
+| **França** | ![](https://img.shields.io/badge/-%20-2446A8) | `#2446A8` |
+| **Alemanha** | ![](https://img.shields.io/badge/-%20-EE7133) | `#EE7133` |
+| **México** | ![](https://img.shields.io/badge/-%20-36A66A) | `#36A66A` |
+| **Estados Unidos** | ![](https://img.shields.io/badge/-%20-C44E9B) | `#C44E9B` |
+
+</td>
+</tr>
+</table>
+
 #### Produtos
 
 | Produto | Amostra | Hexadecimal |
