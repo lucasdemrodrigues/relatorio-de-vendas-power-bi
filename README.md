@@ -11,7 +11,7 @@
 ![Tema Vendas](https://img.shields.io/badge/Tema-Vendas-5B2A86)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-107C41?logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-00758F?logo=sqlite&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-00758F)
 
 <p align="center">
   Relatório interativo em Power BI que investiga a relação entre vendas e lucratividade, identificando os produtos, segmentos e países que mais contribuem para os resultados.
