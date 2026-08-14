@@ -196,12 +196,42 @@ Como a base já apresentava uma estrutura adequada ao escopo do projeto, não fo
 
 Após o carregamento, as colunas `Sale Price`, `Sales` e `Profit` foram configuradas na exibição de tabela do Power BI com formato monetário e duas casas decimais.
 
-## ⚙️ Modelagem & Engenharia de Dados
+## ⚙️ Medidas DAX
 
-### 📐 Medidas DAX Principais
+Foram criadas medidas DAX para calcular indicadores de rentabilidade, avaliar o efeito dos descontos e aplicar formatação condicional aos resultados. As medidas respondem dinamicamente aos contextos de filtro e às categorias utilizadas nos visuais.
 
-**1. Margem de Lucro Consolidada**
-Calculada via DAX garantindo segurança contra divisões por zero e dinamicidade ao contexto de filtro:
+| Medida | Aplicação |
+| :--- | :--- |
+| **Margem de Lucro** | Cartão da página *Rentabilidade e eficiência* |
+| **Preço Médio Bruto por Unidade** | Comparativo de preços e tooltip de preços e descontos |
+| **Preço Médio Líquido por Unidade** | Comparativo de preços e tooltip de preços e descontos |
+| **Taxa de Desconto** | Tooltip de preços e descontos |
+| **Desconto Total** | Tooltip de preços e descontos |
+| **Cor do Resultado** | Formatação condicional do gráfico *Lucro por segmento* |
+
+---
+
+### 1. Margem de lucro
+Calcula a proporção da receita após descontos que permanece como lucro. A função `DIVIDE` previne erros de divisão por zero.
+
+```dax
+Margem de Lucro = 
+DIVIDE(
+    SUM(financials[Profit]),
+    SUM(financials[Sales]),
+    0
+)
+
+### 2. Preço médio bruto por unidade
+
+Calcula quanto cada unidade vendida representou, em média, antes da aplicação dos descontos.
+
+Preço Médio Bruto por Unidade =
+DIVIDE(
+    SUM(financials[Gross Sales]),
+    SUM(financials[Units Sold]),
+    0
+)
 
 ## 🔗 Referência do desafio
 
