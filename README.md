@@ -25,9 +25,6 @@
 
 - [Contexto](#-contexto)
 - [Estrutura do relatório](#-estrutura-do-relatório)
-    - [Página 1 — Visão geral de produtos](#-página-1--visão-geral-de-produtos)
-    - [Página 2 — Desempenho geográfico](#-página-2--desempenho-geográfico)
-    - [Página 3 — Rentabilidade e eficiência](#-página-3--rentabilidade-e-eficiência)
 - [Principais insights](#-principais-insights)
 - [Decisões de design e visualização de dados](#-decisões-de-design-e-visualização-de-dados)
 - [Sobre os dados](#️-sobre-os-dados)
