@@ -157,7 +157,9 @@ O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos ca
 
 ---
 
-## 🗂️ Sobre os dados
+## 🗂️ Base e preparação dos dados
+
+### Visão geral da base
 
 - **Fonte:** Microsoft Financial Sample;
 - **Período:** setembro de 2013 a dezembro de 2014;
@@ -167,9 +169,7 @@ O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos ca
 - **Principais campos:** produto, segmento, país, data, unidades vendidas, preço de venda, receita, descontos, custo dos produtos vendidos e lucro;
 - **Moeda:** os campos monetários foram formatados com o símbolo `$`, aplicado pelo Power BI. Como a documentação da amostra não especifica a moeda utilizada, o símbolo foi mantido sem atribuição a uma moeda ou país específico.
 
----
-
-## ⚙️ Preparação dos dados
+### Tratamento no Power Query
 
 Os dados foram carregados e analisados no Power Query antes da criação dos visuais.
 
@@ -181,13 +181,9 @@ Foram realizadas as seguintes etapas:
 
 Os valores decimais de `Units Sold` foram preservados para manter a precisão da base original, pois não foi identificada uma regra de negócio que justificasse seu arredondamento.
 
-Como a base já apresentava uma estrutura adequada ao escopo do projeto, não foram necessárias alterações estruturais nem remoções de registros.
+Como a base já apresentava uma estrutura adequada ao escopo do projeto, não foram necessárias alterações estruturais nem remoções de registros. Após o carregamento, as colunas `Sale Price`, `Sales` e `Profit` foram configuradas na exibição de tabela do Power BI com formato monetário e duas casas decimais.
 
-Após o carregamento, as colunas `Sale Price`, `Sales` e `Profit` foram configuradas na exibição de tabela do Power BI com formato monetário e duas casas decimais.
-
----
-
-## 🧠 Regras de negócio e indicadores
+### Regras e relações de cálculo
 
 Para orientar a leitura do relatório, foram consideradas as seguintes definições e relações presentes na base:
 
@@ -198,7 +194,7 @@ Para orientar a leitura do relatório, foram consideradas as seguintes definiç�
 - **Lucro (`Profit`):** receita após descontos menos o custo dos produtos vendidos;
 - **Margem de lucro:** percentual da receita após descontos que permanece como lucro depois da dedução do custo dos produtos vendidos.
 
-### Relações de cálculo
+#### Relações de cálculo
 
 $$ \text{Receita Bruta} - \text{Descontos} = \text{Receita após Descontos} $$
 
