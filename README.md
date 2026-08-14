@@ -118,7 +118,7 @@ A partir do relatório de referência, foram realizadas adaptações com foco na
 | **Manutenção do gráfico de pizza para participação da receita por produto** | O visual foi mantido por representar a participação de cada produto no total. Como há apenas seis categorias, todas com valores positivos, e os rótulos exibem valores absolutos e percentuais, a composição da receita permanece clara. |
 | **Formatação condicional por sinal (DAX)** | Aplicação dinâmica de roxo (`#5B2A86`) para resultados positivos e vermelho (`#C0392B`) para resultados negativos, direcionando a atenção para o segmento com prejuízo. |
 | **Barras agrupadas para os preços bruto e líquido por unidade** | O gráfico de área foi substituído porque os produtos representam categorias independentes. As barras agrupadas permitem comparar o valor médio por unidade antes e após os descontos, evidenciando o impacto das concessões comerciais. |
-| **Dicas de ferramenta personalizadas** | Os gráficos Participação da receita por produto e Comparação de preços por unidade apresentam informações complementares ao posicionar o cursor sobre cada produto, mantendo a página principal limpa e objetiva. |
+| **Dicas de ferramenta personalizadas** | Os gráficos *Participação da receita por produto* e *Comparação de preços por unidade* apresentam informações complementares ao posicionar o cursor sobre cada produto, mantendo a página principal limpa e objetiva. |
 | **Organização do cabeçalho e navegação** | O título, o segmentador de período e os botões de navegação foram reunidos no cabeçalho, mantendo os controles consistentes entre as páginas e liberando espaço para os visuais. |
 
 ### Identidade visual
