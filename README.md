@@ -55,7 +55,7 @@ Receita, preços antes e após descontos e evolução mensal por segmento.
 - Quanto os descontos reduzem o preço médio por unidade?
 - Como a receita evolui ao longo do tempo e quais segmentos sustentam o resultado?
 
-<img width="868" height="488" alt="{C91306FC-2241-45C3-8BA8-0CD0908BB5CB}" src="https://github.com/user-attachments/assets/2db65a47-a020-40d6-a5fa-25290231e913" />
+<img width="868" height="488" alt="Página 1 — Visão geral de produtos" src="https://github.com/user-attachments/assets/2db65a47-a020-40d6-a5fa-25290231e913" />
 
 ---
 
@@ -69,7 +69,7 @@ Receita, lucro e unidades vendidas por país.
 - Quais países apresentam os maiores lucros?
 - Como o lucro de cada país evolui ao longo do tempo?
   
-<img width="871" height="488" alt="{668BB0D0-5D47-418A-9312-211EF5EFD988}" src="https://github.com/user-attachments/assets/cadd6163-deed-4b8f-b1ce-10b195971ca3" />
+<img width="871" height="488" alt="Página 2 — Desempenho geográfico" src="https://github.com/user-attachments/assets/cadd6163-deed-4b8f-b1ce-10b195971ca3" />
 
 ---
 
@@ -83,7 +83,7 @@ Lucro, custos e descontos por produto e segmento.
 - Como o lucro de cada produto é composto pelos diferentes segmentos?
 - Quais produtos concentram os maiores valores de desconto?
   
-<img width="869" height="487" alt="{0DC6CD61-DC07-4FA6-A12F-1B1CB47F08A1}" src="https://github.com/user-attachments/assets/95495321-661b-4e90-83d3-b07d8097cb7a" />
+<img width="869" height="487" alt="Página 3 — Rentabilidade e eficiência" src="https://github.com/user-attachments/assets/95495321-661b-4e90-83d3-b07d8097cb7a" />
 
 ---
 
