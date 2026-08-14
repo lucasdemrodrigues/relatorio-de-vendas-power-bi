@@ -185,11 +185,10 @@ O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos ca
 - **Período:** setembro de 2013 a dezembro de 2014;
 - **Volume:** 700 registros;
 - **Estrutura:** tabela única denominada `financials`;
-- **Granularidade:** cada linha representa o desempenho de um produto em determinado país, segmento, faixa de desconto e período;
+- **Granularidade:** cada linha representa o desempenho de um produto em determinado país, segmento, faixa de desconto, período e preço de venda;
 - **Principais campos:** produto, segmento, país, data, unidades vendidas, preço de venda, receita, descontos, custo dos produtos vendidos e lucro;
-- **Moeda:** os campos monetários foram formatados com o símbolo `$`, aplicado pelo Power BI. Como a documentação da amostra não especifica a moeda utilizada, o símbolo foi mantido sem atribuição a uma moeda ou país específico.
 
-### Tratamento no Power Query
+### Tratamento e formatação dos dados
 
 Os dados foram carregados e analisados no Power Query antes da criação dos visuais.
 
@@ -202,6 +201,8 @@ Foram realizadas as seguintes etapas:
 Os valores decimais de `Units Sold` foram preservados para manter a precisão da base original, pois não foi identificada uma regra de negócio que justificasse seu arredondamento.
 
 Como a base já apresentava uma estrutura adequada ao escopo do projeto, não foram necessárias alterações estruturais nem remoções de registros. Após o carregamento, as colunas `Sale Price`, `Sales` e `Profit` foram configuradas na exibição de tabela do Power BI com formato monetário e duas casas decimais.
+
+Como a base já apresentava uma estrutura adequada ao escopo do projeto, não foram necessárias alterações estruturais nem remoções de registros. Após o carregamento, as colunas `Sale Price`, `Sales` e `Profit` foram configuradas na exibição de tabela do Power BI com formato monetário e duas casas decimais. Como a documentação da amostra não especifica a moeda utilizada, o símbolo `$` foi mantido como padrão de exibição, sem conversão cambial ou atribuição a uma moeda ou país específico.
 
 ### Regras e relações de cálculo
 
