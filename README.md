@@ -215,6 +215,8 @@ $$ \text{Receita após Descontos} - \text{COGS} = \text{Lucro} $$
 
 $$ \left( \frac{\text{Lucro}}{\text{Receita após Descontos}} \right) \times 100 = \text{Margem de Lucro \%} $$
 
+Essas relações também foram utilizadas para validar a consistência dos totais apresentados nos cartões e visuais do relatório.
+
 > 💡 *Nota: na base Financial Sample, o campo Sales representa a receita após os descontos registrados. Como a base não apresenta campos específicos para impostos ou devoluções, esses valores não foram considerados na análise.*
 
 ---
