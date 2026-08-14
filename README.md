@@ -55,7 +55,7 @@ Receita, preços médios e evolução mensal por segmento.
 - Como os produtos se posicionam em relação ao preço médio?
 - Como a receita evolui ao longo do tempo e quais segmentos sustentam o resultado?
 
-<img width="872" height="489" alt="{0475591D-BD28-48FC-A5E2-A455767399E3}" src="https://github.com/user-attachments/assets/54815da6-53a7-420b-89cb-3ae63477fb9c" />
+<img width="868" height="488" alt="{C91306FC-2241-45C3-8BA8-0CD0908BB5CB}" src="https://github.com/user-attachments/assets/2db65a47-a020-40d6-a5fa-25290231e913" />
 
 ---
 
