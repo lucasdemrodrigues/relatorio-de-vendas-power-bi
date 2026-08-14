@@ -196,6 +196,8 @@ Como a base já apresentava uma estrutura adequada ao escopo do projeto, não fo
 
 Após o carregamento, as colunas `Sale Price`, `Sales` e `Profit` foram configuradas na exibição de tabela do Power BI com formato monetário e duas casas decimais.
 
+---
+
 ## 📐 Medidas DAX
 
 Foram criadas medidas DAX para calcular indicadores de rentabilidade, avaliar o efeito dos descontos e aplicar formatação condicional aos resultados. As medidas respondem dinamicamente aos contextos de filtro e às categorias utilizadas nos visuais.
