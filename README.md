@@ -221,6 +221,7 @@ DIVIDE(
     SUM(financials[Sales]),
     0
 )
+```
 
 ### 2. Preço médio bruto por unidade
 
@@ -232,6 +233,7 @@ DIVIDE(
     SUM(financials[Units Sold]),
     0
 )
+```
 
 ## 🔗 Referência do desafio
 
