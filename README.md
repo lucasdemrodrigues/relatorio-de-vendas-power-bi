@@ -26,7 +26,7 @@
 - [Sobre os dados](#️-sobre-os-dados)
 - [Regras de negócio e indicadores](#-regras-de-negócio-e-indicadores)
 - [Preparação dos dados](#️-preparação-dos-dados)
-- [Medidas DAX](#️-medidas-dax)
+- [Medidas DAX](#medidas-dax)
 - [Referência do desafio](#-referência-do-desafio)
 
 ---
