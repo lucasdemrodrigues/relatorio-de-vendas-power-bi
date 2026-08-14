@@ -47,12 +47,12 @@ A proposta consistia em construir e publicar um relatório de vendas no Power BI
 
 ### 📄 Página 1 — Visão geral de produtos
 
-Receita, preços médios e evolução mensal por segmento.
+Receita, preços antes e após descontos e evolução mensal por segmento.
 
 **Perguntas respondidas:**
 
 - Quais produtos mais contribuem para a receita?
-- Como os produtos se posicionam em relação ao preço médio?
+- Como os descontos afetam o preço médio por unidade de cada produto?
 - Como a receita evolui ao longo do tempo e quais segmentos sustentam o resultado?
 
 <img width="868" height="488" alt="{C91306FC-2241-45C3-8BA8-0CD0908BB5CB}" src="https://github.com/user-attachments/assets/2db65a47-a020-40d6-a5fa-25290231e913" />
@@ -108,8 +108,8 @@ O projeto priorizou boas práticas de visualização de dados em relação ao re
 | **Substituição do mapa por gráficos de barras** | Como a base contempla apenas cinco países e o objetivo é comparar seus desempenhos, as barras possibilitam uma leitura mais precisa sem depender da dimensão territorial de cada país. |
 | **Substituição do gráfico de pizza por barras em *Lucro por segmento*** | Gráficos de pizza não representam adequadamente valores negativos, como o prejuízo do segmento `ENTERPRISE`. As barras horizontais preservam a escala e evidenciam o sinal do resultado. |
 | **Formatação condicional por sinal (DAX)** | Aplicação dinâmica de roxo (`#5B2A86`) para resultados positivos e vermelho (`#C0392B`) para resultados negativos, direcionando a atenção para o segmento com prejuízo. |
-| **Gráfico de barras para o preço médio** | Substituição do gráfico de área para evitar a percepção de continuidade entre produtos, que representam categorias independentes. |
-| **Dicas de ferramenta personalizadas** | Os gráficos *Participação da receita por produto* e *Preço médio de venda por produto* apresentam informações complementares ao posicionar o cursor sobre cada produto, mantendo a página principal limpa e objetiva. |
+| **Barras agrupadas para os preços bruto e líquido por unidade** | O gráfico de área foi substituído porque os produtos representam categorias independentes. As barras agrupadas permitem comparar o valor médio por unidade antes e após os descontos, evidenciando o impacto das concessões comerciais. |
+| **Dicas de ferramenta personalizadas** | Os gráficos Participação da receita por produto e Comparação de preços por unidade apresentam informações complementares ao posicionar o cursor sobre cada produto, mantendo a página principal limpa e objetiva. |
 | **Organização do cabeçalho e navegação** | O título, o segmentador de período e os botões de navegação foram reunidos no cabeçalho, mantendo os controles consistentes entre as páginas e liberando espaço para os visuais. |
 
 ### Identidade visual
