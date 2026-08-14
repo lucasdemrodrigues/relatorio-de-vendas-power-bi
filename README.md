@@ -246,7 +246,7 @@ DIVIDE(
 )
 ```
 
-A comparação entre os preços bruto e líquido por unidade permite observar o efeito dos descontos sobre as vendas. Diferentemente da média simples de Sale Price, que atribui o mesmo peso a cada linha, essas medidas consideram a quantidade total de unidades vendidas.
+A comparação entre os preços bruto e líquido por unidade permite observar o efeito dos descontos sobre o valor médio gerado. Diferentemente da média simples da coluna Sale Price (que atribui o mesmo peso a cada linha), essas medidas calculam a média ponderada pelo volume total de unidades vendidas.
 
 ### 4. Taxa de desconto
 Calcula a participação dos descontos sobre a receita bruta. A medida permite comparar proporcionalmente o efeito das concessões comerciais, independentemente do volume de vendas.
