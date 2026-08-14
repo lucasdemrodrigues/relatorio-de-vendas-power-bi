@@ -126,7 +126,7 @@ A partir do relatório de referência, foram realizadas adaptações com foco na
 O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos cartões brancos, favorecendo a hierarquia visual. Cada produto, segmento e país conserva sua identificação cromática ao longo de todo o relatório, garantindo consistência visual entre as páginas e acelerando o reconhecimento das categorias.
 
 <details>
-<summary><b>🎨 Clique para ver a paleta de cores detalhada</b></summary>
+<summary><b>Clique para ver a paleta de cores detalhada</b></summary>
 <br>
 
 <table>
