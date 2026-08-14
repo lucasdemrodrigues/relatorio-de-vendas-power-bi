@@ -224,7 +224,7 @@ Essas relações também foram utilizadas para validar a consistência dos totai
 - A base é uma amostra educacional e não representa as operações de uma empresa real;
 - A análise possui caráter descritivo e exploratório, sem metas ou orçamento para comparação;
 - O histórico disponível não permite comparações anuais completas;
-- A base não apresenta despesas operacionais, impostos ou fluxo de caixa. O campo `COGS` representa apenas o custo dos produtos vendidos, portanto o campo `Profit` não corresponde ao resultado líquido da operação;
+- A base não apresenta despesas operacionais, impostos ou fluxo de caixa. Como Profit considera apenas a receita após descontos menos o custo dos produtos vendidos (COGS), esse indicador não representa o resultado líquido da operação;
 - A concentração de descontos indica pontos de investigação, mas não comprova uma relação causal com o desempenho;
 - O modelo utiliza uma estrutura de tabela única (*flat table*), sem aplicação de modelagem dimensional em estrela (*Star Schema*).
 
