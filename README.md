@@ -292,8 +292,10 @@ IF(
 
 - [Repositório power_bi_analyst — Juliana Zanelatto](https://github.com/julianazanelatto/power_bi_analyst)
 
-[⬆️ Voltar ao início](#inicio)
+<br>
 
----
-
-> **Nota:** este README foi escrito originalmente em português. A tradução automática do navegador pode alterar termos técnicos ou elementos de formatação. Para uma melhor experiência, consulte a versão original da página.
+<p align="center">
+  <a href="#inicio">⬆️ Voltar ao início</a>
+  <br><br>
+  <sub><i>Nota: este README foi escrito originalmente em português. Traduções automáticas do navegador podem alterar termos técnicos ou formatações.</i></sub>
+</p>
