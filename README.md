@@ -52,7 +52,7 @@ Receita, preços antes e após descontos e evolução mensal por segmento.
 **Perguntas respondidas:**
 
 - Quais produtos mais contribuem para a receita?
-- Como os descontos afetam o preço médio por unidade de cada produto?
+- Quanto os descontos reduzem o preço médio por unidade?
 - Como a receita evolui ao longo do tempo e quais segmentos sustentam o resultado?
 
 <img width="868" height="488" alt="{C91306FC-2241-45C3-8BA8-0CD0908BB5CB}" src="https://github.com/user-attachments/assets/2db65a47-a020-40d6-a5fa-25290231e913" />
