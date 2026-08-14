@@ -200,8 +200,6 @@ Foram realizadas as seguintes etapas:
 
 Os valores decimais de `Units Sold` foram preservados para manter a precisão da base original, pois não foi identificada uma regra de negócio que justificasse seu arredondamento.
 
-Como a base já apresentava uma estrutura adequada ao escopo do projeto, não foram necessárias alterações estruturais nem remoções de registros. Após o carregamento, as colunas `Sale Price`, `Sales` e `Profit` foram configuradas na exibição de tabela do Power BI com formato monetário e duas casas decimais.
-
 Como a base já apresentava uma estrutura adequada ao escopo do projeto, não foram necessárias alterações estruturais nem remoções de registros. Após o carregamento, as colunas `Sale Price`, `Sales` e `Profit` foram configuradas na exibição de tabela do Power BI com formato monetário e duas casas decimais. Como a documentação da amostra não especifica a moeda utilizada, o símbolo `$` foi mantido como padrão de exibição, sem conversão cambial ou atribuição a uma moeda ou país específico.
 
 ### Regras e relações de cálculo
