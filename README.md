@@ -241,8 +241,6 @@ Essas relações também foram utilizadas para validar a consistência dos totai
 | **Desconto Total** | Tooltip de preços e descontos |
 | **Cor do Resultado** | Formatação condicional do gráfico *Lucro por segmento* |
 
----
-
 ### 1. Margem de lucro
 Calcula a proporção da receita após descontos que permanece como lucro. A função `DIVIDE` previne erros de divisão por zero.
 
