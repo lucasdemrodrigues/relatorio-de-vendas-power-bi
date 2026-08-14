@@ -168,46 +168,6 @@ O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos ca
 </tr>
 </table>
 
-| Produtos | Amostra / Hex | Segmentos | Amostra / Hex | Países | Amostra / Hex |
-| :--- | :---: | :--- | :---: | :--- | :---: |
-| **Paseo** | ![](https://img.shields.io/badge/-%20-5B2A86) `#5B2A86` | **Channel Partners** | ![](https://img.shields.io/badge/-%20-2884C6) `#2884C6` | **Canadá** | ![](https://img.shields.io/badge/-%20-2884C6) `#2884C6` |
-| **VTT** | ![](https://img.shields.io/badge/-%20-7656B8) `#7656B8` | **Enterprise** | ![](https://img.shields.io/badge/-%20-2446A8) `#2446A8` | **França** | ![](https://img.shields.io/badge/-%20-2446A8) `#2446A8` |
-| **Velo** | ![](https://img.shields.io/badge/-%20-C44E9B) `#C44E9B` | **Government** | ![](https://img.shields.io/badge/-%20-EE7133) `#EE7133` | **Alemanha** | ![](https://img.shields.io/badge/-%20-EE7133) `#EE7133` |
-| **Amarilla** | ![](https://img.shields.io/badge/-%20-2884C6) `#2884C6` | **Midmarket** | ![](https://img.shields.io/badge/-%20-6B197D) `#6B197D` | **México** | ![](https://img.shields.io/badge/-%20-36A66A) `#36A66A` |
-| **Montana** | ![](https://img.shields.io/badge/-%20-36A6A6) `#36A6A6` | **Small Business** | ![](https://img.shields.io/badge/-%20-D941A6) `#D941A6` | **Estados Unidos** | ![](https://img.shields.io/badge/-%20-C44E9B) `#C44E9B` |
-| **Carretera** | ![](https://img.shields.io/badge/-%20-2446A8) `#2446A8` | — | — | — | — |
-
-#### Produtos
-
-| Produto | Amostra | Hexadecimal |
-| :--- | :---: | :--- |
-| **Paseo** | ![](https://img.shields.io/badge/-%20-5B2A86) | `#5B2A86` |
-| **VTT** | ![](https://img.shields.io/badge/-%20-7656B8) | `#7656B8` |
-| **Velo** | ![](https://img.shields.io/badge/-%20-C44E9B) | `#C44E9B` |
-| **Amarilla** | ![](https://img.shields.io/badge/-%20-2884C6) | `#2884C6` |
-| **Montana** | ![](https://img.shields.io/badge/-%20-36A6A6) | `#36A6A6` |
-| **Carretera** | ![](https://img.shields.io/badge/-%20-2446A8) | `#2446A8` |
-
-#### Segmentos
-
-| Segmento | Amostra | Hexadecimal |
-| :--- | :---: | :--- |
-| **Channel Partners** | ![](https://img.shields.io/badge/-%20-2884C6) | `#2884C6` |
-| **Enterprise** | ![](https://img.shields.io/badge/-%20-2446A8) | `#2446A8` |
-| **Government** | ![](https://img.shields.io/badge/-%20-EE7133) | `#EE7133` |
-| **Midmarket** | ![](https://img.shields.io/badge/-%20-6B197D) | `#6B197D` |
-| **Small Business** | ![](https://img.shields.io/badge/-%20-D941A6) | `#D941A6` |
-
-#### Países
-
-| País | Amostra | Hexadecimal |
-| :--- | :---: | :--- |
-| **Canadá** | ![](https://img.shields.io/badge/-%20-2884C6) | `#2884C6` |
-| **França** | ![](https://img.shields.io/badge/-%20-2446A8) | `#2446A8` |
-| **Alemanha** | ![](https://img.shields.io/badge/-%20-EE7133) | `#EE7133` |
-| **México** | ![](https://img.shields.io/badge/-%20-36A66A) | `#36A66A` |
-| **Estados Unidos** | ![](https://img.shields.io/badge/-%20-C44E9B) | `#C44E9B` |
-
 ---
 
 ## 🗂️ Base e preparação dos dados
