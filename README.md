@@ -15,6 +15,10 @@
   Relatório interativo em Power BI que investiga a relação entre vendas e lucratividade, identificando os produtos, segmentos e países que mais contribuem para os resultados.
 </p>
 
+<p align="center">
+  📁 <b>Arquivos:</b> <a href="./relatorio-de-vendas.pbix">Relatório (.pbix)</a> • <a href="./base-financial-sample.xlsx">Base de Dados (.xlsx)</a>
+</p>
+
 </div>
 
 ## 📑 Índice
