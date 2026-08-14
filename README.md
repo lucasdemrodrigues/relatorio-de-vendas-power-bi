@@ -200,8 +200,6 @@ Após o carregamento, as colunas `Sale Price`, `Sales` e `Profit` foram configur
 
 ## 📐 Medidas DAX
 
-Foram criadas medidas DAX para calcular indicadores de rentabilidade, avaliar o efeito dos descontos e aplicar formatação condicional aos resultados. As medidas respondem dinamicamente aos contextos de filtro e às categorias utilizadas nos visuais.
-
 | Medida | Aplicação |
 | :--- | :--- |
 | **Margem de Lucro** | Cartão da página *Rentabilidade e eficiência* |
@@ -236,6 +234,53 @@ DIVIDE(
     0
 )
 ```
+### 3. Preço médio líquido por unidade
+Calcula quanto cada unidade vendida gerou, em média, após a aplicação dos descontos.
+
+```dax
+Preço Médio Líquido por Unidade =
+DIVIDE(
+    SUM(financials[Sales]),
+    SUM(financials[Units Sold]),
+    0
+)
+```
+
+A comparação entre os preços bruto e líquido permite observar o efeito dos descontos sobre o valor médio gerado por unidade. Diferentemente da média simples da coluna Sale Price, essas medidas consideram a quantidade de unidades vendidas.
+
+4. Taxa de desconto
+Calcula a participação dos descontos sobre a receita bruta. A medida permite comparar proporcionalmente o efeito das concessões comerciais, independentemente do volume de vendas.
+
+```dax
+Taxa de Desconto =
+DIVIDE(
+    SUM(financials[Discounts]),
+    SUM(financials[Gross Sales]),
+    0
+)
+```
+
+5. Desconto total
+Soma o valor dos descontos concedidos no contexto analisado.
+
+```dax
+Desconto Total =
+SUM(financials[Discounts])
+```
+
+6. Cor do resultado
+Retorna uma cor de acordo com o sinal do lucro no contexto de filtro: vermelho para resultados negativos e roxo para resultados positivos ou iguais a zero.
+
+```dax
+Cor do Resultado =
+IF(
+    SUM(financials[Profit]) < 0,
+    "#C0392B",
+    "#5B2A86"
+)
+```
+
+A medida foi utilizada na formatação condicional do gráfico Lucro por segmento, destacando visualmente o prejuízo apresentado pelo segmento ENTERPRISE.
 
 ## 🔗 Referência do desafio
 
