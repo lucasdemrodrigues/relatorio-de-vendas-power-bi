@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Relatório de Vendas no Power BI: Financial Sample
+# Relatório de Vendas no Power BI: Financial sample
 
 ![Status Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Bootcamp Santander + DIO](https://img.shields.io/badge/Bootcamp-Santander%20%2B%20DIO-cc0000)
