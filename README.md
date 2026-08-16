@@ -184,6 +184,7 @@ O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos ca
 - **Fonte:** Microsoft Financial Sample;
 - **Período:** setembro de 2013 a dezembro de 2014;
 - **Volume:** 700 registros;
+- **Tipo de análise:** descritiva e exploratória;
 - **Estrutura:** tabela única denominada `financials`;
 - **Granularidade:** cada linha representa o desempenho de um produto em determinado país, segmento, faixa de desconto, período e preço de venda;
 - **Principais campos:** produto, segmento, país, data, unidades vendidas, preço de venda, receita, descontos, custo dos produtos vendidos e lucro;
