@@ -181,7 +181,7 @@ O fundo em lilás-claro (#F7F5FA) cria uma separação suave em relação aos ca
 
 ### Visão geral da base
 
-- **Fonte:** Microsoft Financial Sample;
+- **Fonte:** Microsoft Financial sample;
 - **Período:** setembro de 2013 a dezembro de 2014;
 - **Volume:** 700 registros;
 - **Tipo de análise:** descritiva e exploratória;
