@@ -1,5 +1,6 @@
 {
   "portfolio": true,
+  "order": 1,
   "title": "Relatório de Vendas no Power BI",
   "categories": ["Power BI"],
   "description": "Análise de vendas e lucratividade por produtos, segmentos, países e períodos, com foco em clareza visual e interpretação do negócio.",
