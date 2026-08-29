@@ -4,7 +4,7 @@
   "title": "Relatório de Vendas no Power BI",
   "categories": ["Power BI"],
   "description": "Análise de vendas e lucratividade por produtos, segmentos, países e períodos, com foco em clareza visual e interpretação do negócio.",
-  "image": "https://raw.githubusercontent.com/lucasdemrodrigues/relatorio-de-vendas-power-bi/main/Gif%20Relat%C3%B3rio%20de%20Vendas.gif",
+  "image": "https://raw.githubusercontent.com/lucasdemrodrigues/relatorio-de-vendas-power-bi/main/assets/portfolio-preview.gif",
   "tags": ["Power BI", "Power Query", "DAX", "Data Visualization"],
   "eyebrow": "POWER BI"
 }
