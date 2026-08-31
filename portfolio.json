@@ -3,7 +3,7 @@
   "order": 1,
   "title": "Relatório de Vendas no Power BI",
   "categories": ["Power BI"],
-  "description": "Análise de vendas e lucratividade para identificar os produtos, segmentos, países e períodos com melhor desempenho e apoiar decisões comerciais com mais clareza.",
+  "description": "Análise de vendas e lucratividade para identificar os produtos, segmentos, países e períodos com melhor desempenho e apoiar decisões comerciais com maior clareza.",
   "image": "https://raw.githubusercontent.com/lucasdemrodrigues/relatorio-de-vendas-power-bi/main/assets/portfolio-preview.gif",
   "tags": ["Power BI", "Power Query", "DAX", "Data Visualization"],
   "eyebrow": "POWER BI"
