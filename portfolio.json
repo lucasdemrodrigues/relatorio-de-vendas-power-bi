@@ -2,8 +2,12 @@
   "portfolio": true,
   "order": 1,
   "title": "Relatório de Vendas no Power BI",
+  "title_en": "Sales Report in Power BI",
+  "title_es": "Informe de Ventas en Power BI",
   "categories": ["Power BI"],
   "description": "Análise de vendas e lucratividade para identificar os produtos, segmentos, países e períodos com melhor desempenho e apoiar decisões comerciais com maior clareza.",
+  "description_en": "Sales and profitability analysis to identify top-performing products, segments, countries and periods, supporting clearer commercial decision-making.",
+  "description_es": "Análisis de ventas y rentabilidad para identificar los productos, segmentos, países y períodos con mejor desempeño y apoyar decisiones comerciales con mayor claridad.",
   "image": "https://raw.githubusercontent.com/lucasdemrodrigues/relatorio-de-vendas-power-bi/main/assets/portfolio-preview.gif",
   "tags": ["Power BI", "Power Query", "DAX", "Data Visualization"],
   "eyebrow": "POWER BI"
