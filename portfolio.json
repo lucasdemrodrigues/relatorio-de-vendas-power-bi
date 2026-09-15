@@ -9,6 +9,7 @@
   "description_en": "Sales and profitability analysis to identify top-performing products, segments, countries and periods, supporting clearer commercial decision-making.",
   "description_es": "Análisis de ventas y rentabilidad para identificar los productos, segmentos, países y períodos con mejor desempeño y apoyar decisiones comerciales con mayor claridad.",
   "image": "https://raw.githubusercontent.com/lucasdemrodrigues/relatorio-de-vendas-power-bi/main/assets/portfolio-preview.gif",
+  "image_reduced_motion": "https://raw.githubusercontent.com/lucasdemrodrigues/relatorio-de-vendas-power-bi/main/assets/portfolio-preview-static.webp",
   "tags": ["Power BI", "Power Query", "DAX", "Data Visualization"],
   "eyebrow": "POWER BI",
   "eyebrow_en": "POWER BI",
