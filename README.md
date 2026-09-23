@@ -97,7 +97,7 @@ Lucro, custos e descontos por produto e segmento.
 
 ## 💡 Principais insights
 
-Analisando os resultados consolidados do período de 2013 a 2014:
+Analisando os resultados consolidados de setembro de 2013 a dezembro de 2014:
 
 * 🏛️ **Dependência do segmento governamental:** o segmento `GOVERNMENT` responde por aproximadamente 67% do lucro total ($11,39 milhões de $16,89 milhões). Embora evidencie sua relevância, essa concentração pode indicar dependência elevada, tornando importante acompanhar a estabilidade dos seus resultados e avaliar o potencial de ampliar a rentabilidade dos demais segmentos.
 * ⚠️ **Resultado negativo no segmento empresarial:** embora gere receita, o segmento `ENTERPRISE` apresenta margem negativa de 3,13% e prejuízo de aproximadamente $614,5 mil. Isso mostra que a geração de receita, por si só, não garante rentabilidade. Esse cenário justifica investigar como os custos dos produtos vendidos e os descontos afetam a margem do segmento, além de identificar quais produtos concentram as maiores perdas.
@@ -229,10 +229,10 @@ Essas relações também foram utilizadas para validar a consistência dos totai
 ### Limitações da análise
 
 - A base é uma amostra educacional e não representa as operações de uma empresa real;
-- O histórico disponível não permite comparações anuais completas;
+- O histórico abrange setembro de 2013 a dezembro de 2014. Como 2013 contém apenas quatro meses, seus totais anuais não são diretamente comparáveis aos de 2014, que possui doze meses completos;
 - A base não apresenta metas ou orçamento para comparar os resultados realizados com os planejados;
 - A base não inclui despesas operacionais, impostos ou fluxo de caixa. Como `Profit` considera apenas a receita após descontos menos o custo dos produtos vendidos (`COGS`), esse indicador não representa o resultado líquido da operação;
-- A concentração de descontos indica pontos de investigação, mas não comprova uma relação causal com o desempenho;
+- A análise descreve a distribuição dos descontos e identifica pontos de investigação, mas não realiza testes estatísticos de associação nem permite atribuir causalidade entre descontos e desempenho;
 - O modelo utiliza uma estrutura de tabela única (*flat table*), sem aplicação de modelagem dimensional em estrela (*Star Schema*).
 
 ---
